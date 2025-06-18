@@ -1,0 +1,3151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\Github\x399 Burn In\x399_Burn_In\PCBs\x399 Burn In v0_0_7LC\x399 Burn In v0_0_7LC.kicad_sch</source>
+    <date>6/16/2025 7:44:11 PM</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>x399 Burn In v0_0_7LC.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Vref 1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Power.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>untitled.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="M1">
+      <value>M3x0.5 0.3mm_tall</value>
+      <footprint>Mechanical_Standoffs_SMD:24939_ElecConn</footprint>
+      <datasheet>https://www.keyelco.com/product-pdf.cfm?p=14826</datasheet>
+      <fields>
+        <field name="Comment">Elect_Conn</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">36-24939CT-ND</field>
+        <field name="Height">0.3mm</field>
+        <field name="MFG">Keystone Electronics</field>
+        <field name="MFG PN">24939</field>
+        <field name="Name">M3x0.5 0.3mm_tall Elect_Conn</field>
+        <field name="Symbol">0Dan_Mech_Standoffs:SMD_ElecConn</field>
+        <field name="Thread Size">M3x0.5</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Mechanical - Standoffs - SMD/M3x0.5 0.3mm_tall Elect_Conn" description=""/>
+      <property name="Name" value="M3x0.5 0.3mm_tall Elect_Conn"/>
+      <property name="Thread Size" value="M3x0.5"/>
+      <property name="Height" value="0.3mm"/>
+      <property name="MFG" value="Keystone Electronics"/>
+      <property name="MFG PN" value="24939"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="36-24939CT-ND"/>
+      <property name="Symbol" value="0Dan_Mech_Standoffs:SMD_ElecConn"/>
+      <property name="Comment" value="Elect_Conn"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="x399 Burn In v0_0_7LC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>485deaa8-52b2-4777-acdc-2d1fc85e1f19</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>9.5mm Black</value>
+      <footprint>Feet:BS22BL05X06RP</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/699/Bumper_Brochure.pdf</datasheet>
+      <fields>
+        <field name="Color">Black</field>
+        <field name="Comment"> </field>
+        <field name="Diameter">9.5mm</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">2042-1050-ND</field>
+        <field name="Height">5.4mm</field>
+        <field name="MFG">Bumper Specialties Inc.</field>
+        <field name="MFG PN">BS22BL05X06RP</field>
+        <field name="Name">9.5mm_dia 5.4mm_height Black  </field>
+        <field name="Symbol">0Dan_Mech_Feet:Foot</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Mechanical - Feet/9.5mm_dia 5.4mm_height Black  " description=""/>
+      <property name="Name" value="9.5mm_dia 5.4mm_height Black  "/>
+      <property name="Diameter" value="9.5mm"/>
+      <property name="Height" value="5.4mm"/>
+      <property name="Color" value="Black"/>
+      <property name="MFG" value="Bumper Specialties Inc."/>
+      <property name="MFG PN" value="BS22BL05X06RP"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="2042-1050-ND"/>
+      <property name="Symbol" value="0Dan_Mech_Feet:Foot"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="x399 Burn In v0_0_7LC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42f52821-9743-41fb-a441-247c3ebe7f50</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>9.5mm Black</value>
+      <footprint>Feet:BS22BL05X06RP</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/699/Bumper_Brochure.pdf</datasheet>
+      <fields>
+        <field name="Color">Black</field>
+        <field name="Comment"> </field>
+        <field name="Diameter">9.5mm</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">2042-1050-ND</field>
+        <field name="Height">5.4mm</field>
+        <field name="MFG">Bumper Specialties Inc.</field>
+        <field name="MFG PN">BS22BL05X06RP</field>
+        <field name="Name">9.5mm_dia 5.4mm_height Black  </field>
+        <field name="Symbol">0Dan_Mech_Feet:Foot</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Mechanical - Feet/9.5mm_dia 5.4mm_height Black  " description=""/>
+      <property name="Name" value="9.5mm_dia 5.4mm_height Black  "/>
+      <property name="Diameter" value="9.5mm"/>
+      <property name="Height" value="5.4mm"/>
+      <property name="Color" value="Black"/>
+      <property name="MFG" value="Bumper Specialties Inc."/>
+      <property name="MFG PN" value="BS22BL05X06RP"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="2042-1050-ND"/>
+      <property name="Symbol" value="0Dan_Mech_Feet:Foot"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="x399 Burn In v0_0_7LC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>305bee2e-5510-48bc-ac64-211b549314f9</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>9.5mm Black</value>
+      <footprint>Feet:BS22BL05X06RP</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/699/Bumper_Brochure.pdf</datasheet>
+      <fields>
+        <field name="Color">Black</field>
+        <field name="Comment"> </field>
+        <field name="Diameter">9.5mm</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">2042-1050-ND</field>
+        <field name="Height">5.4mm</field>
+        <field name="MFG">Bumper Specialties Inc.</field>
+        <field name="MFG PN">BS22BL05X06RP</field>
+        <field name="Name">9.5mm_dia 5.4mm_height Black  </field>
+        <field name="Symbol">0Dan_Mech_Feet:Foot</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Mechanical - Feet/9.5mm_dia 5.4mm_height Black  " description=""/>
+      <property name="Name" value="9.5mm_dia 5.4mm_height Black  "/>
+      <property name="Diameter" value="9.5mm"/>
+      <property name="Height" value="5.4mm"/>
+      <property name="Color" value="Black"/>
+      <property name="MFG" value="Bumper Specialties Inc."/>
+      <property name="MFG PN" value="BS22BL05X06RP"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="2042-1050-ND"/>
+      <property name="Symbol" value="0Dan_Mech_Feet:Foot"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="x399 Burn In v0_0_7LC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33fd8fa6-90c7-462a-8339-08ac6f3e6c11</tstamps>
+    </comp>
+    <comp ref="M5">
+      <value>9.5mm Black</value>
+      <footprint>Feet:BS22BL05X06RP</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/699/Bumper_Brochure.pdf</datasheet>
+      <fields>
+        <field name="Color">Black</field>
+        <field name="Comment"> </field>
+        <field name="Diameter">9.5mm</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">2042-1050-ND</field>
+        <field name="Height">5.4mm</field>
+        <field name="MFG">Bumper Specialties Inc.</field>
+        <field name="MFG PN">BS22BL05X06RP</field>
+        <field name="Name">9.5mm_dia 5.4mm_height Black  </field>
+        <field name="Symbol">0Dan_Mech_Feet:Foot</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Mechanical - Feet/9.5mm_dia 5.4mm_height Black  " description=""/>
+      <property name="Name" value="9.5mm_dia 5.4mm_height Black  "/>
+      <property name="Diameter" value="9.5mm"/>
+      <property name="Height" value="5.4mm"/>
+      <property name="Color" value="Black"/>
+      <property name="MFG" value="Bumper Specialties Inc."/>
+      <property name="MFG PN" value="BS22BL05X06RP"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="2042-1050-ND"/>
+      <property name="Symbol" value="0Dan_Mech_Feet:Foot"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="x399 Burn In v0_0_7LC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>025b0808-d7de-4f8b-92b5-ab1db58b074b</tstamps>
+    </comp>
+    <comp ref="Screw 1">
+      <value>M3x0.5x6 Binding Head Green</value>
+      <footprint>Screws:9191</footprint>
+      <datasheet>https://www.keyelco.com/product-pdf.cfm?p=1928</datasheet>
+      <fields>
+        <field name="Comment">Green</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">36-9191-6-ND</field>
+        <field name="Drive Type">Combination</field>
+        <field name="Has Hole">FALSE</field>
+        <field name="Head Type">Binding Head</field>
+        <field name="MFG">Keystone Electronics</field>
+        <field name="MFG PN">9191-6</field>
+        <field name="Material">Brass</field>
+        <field name="Name">M3x0.5x6 Combination Drive Binding Head Brass Green</field>
+        <field name="Schematic Only">FALSE</field>
+        <field name="Size">M3x0.5x6</field>
+        <field name="Symbol">0Dan_Mech_Screws:M3-6mm_Pan_Green</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Mechanical - Screws/M3x0.5x6 Combination Drive Binding Head Brass Green" description="M3x0.5 - 6mm Socket Head Cap Screw"/>
+      <property name="Name" value="M3x0.5x6 Combination Drive Binding Head Brass Green"/>
+      <property name="Size" value="M3x0.5x6"/>
+      <property name="Drive Type" value="Combination"/>
+      <property name="Head Type" value="Binding Head"/>
+      <property name="Material" value="Brass"/>
+      <property name="MFG" value="Keystone Electronics"/>
+      <property name="MFG PN" value="9191-6"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="36-9191-6-ND"/>
+      <property name="Symbol" value="0Dan_Mech_Screws:M3-6mm_Pan_Green"/>
+      <property name="Schematic Only" value="FALSE"/>
+      <property name="Has Hole" value="FALSE"/>
+      <property name="Comment" value="Green"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="x399 Burn In v0_0_7LC.kicad_sch"/>
+      <property name="ki_description" value="M3x0.5 - 6mm Socket Head Cap Screw"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53dcfa9d-e84f-42fc-8d81-37b5a349416e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL05Y105KP6VPN</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-6495-1-ND</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL21F105ZBFNNNG</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">1uF 50V 0805 Y5V SMD MLCC  </field>
+        <field name="Size">0805</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Technology">MLCC</field>
+        <field name="Temp Co">Y5V</field>
+        <field name="Voltage">50</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Capacitors - Unpolarized/1uF 50V 0805 Y5V SMD MLCC  " description="Unpolarized capacitor"/>
+      <property name="Name" value="1uF 50V 0805 Y5V SMD MLCC  "/>
+      <property name="Size" value="0805"/>
+      <property name="Voltage" value="50"/>
+      <property name="Temp Co" value="Y5V"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Technology" value="MLCC"/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG PN" value="CL21F105ZBFNNNG"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1276-6495-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:C"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>0d9ecb2d-4f2c-41c0-a511-4276d53ccba7</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL05Y105KP6VPN</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-6495-1-ND</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL21F105ZBFNNNG</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">1uF 50V 0805 Y5V SMD MLCC  </field>
+        <field name="Size">0805</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Technology">MLCC</field>
+        <field name="Temp Co">Y5V</field>
+        <field name="Voltage">50</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Capacitors - Unpolarized/1uF 50V 0805 Y5V SMD MLCC  " description="Unpolarized capacitor"/>
+      <property name="Name" value="1uF 50V 0805 Y5V SMD MLCC  "/>
+      <property name="Size" value="0805"/>
+      <property name="Voltage" value="50"/>
+      <property name="Temp Co" value="Y5V"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Technology" value="MLCC"/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG PN" value="CL21F105ZBFNNNG"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1276-6495-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:C"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>319b9259-6f61-4dab-a730-102149e980be</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>Green 3mm</value>
+      <footprint>Discreet_TH:LED_3mm_wurth</footprint>
+      <datasheet>https://www.we-online.com/components/products/datasheet/151031VS06000.pdf</datasheet>
+      <fields>
+        <field name="Color">Green</field>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">732-5008-ND</field>
+        <field name="If (mA)">20</field>
+        <field name="MFG">Würth Elektronik</field>
+        <field name="MFG PN">151031VS06000</field>
+        <field name="Name">Green 3mm 560nm 2.2v 20mA  </field>
+        <field name="Size">3mm</field>
+        <field name="Symbol">0Dan_Discreet:LED</field>
+        <field name="Vf">2.2</field>
+        <field name="Wavelength">560</field>
+      </fields>
+      <libsource lib="Danakil_database" part="LEDs - Standard - Indicator - Through Hole/Green 3mm 560nm 2.2v 20mA  " description="Light emitting diode"/>
+      <property name="Name" value="Green 3mm 560nm 2.2v 20mA  "/>
+      <property name="Color" value="Green"/>
+      <property name="Wavelength" value="560"/>
+      <property name="Vf" value="2.2"/>
+      <property name="If (mA)" value="20"/>
+      <property name="Size" value="3mm"/>
+      <property name="MFG" value="Würth Elektronik"/>
+      <property name="MFG PN" value="151031VS06000"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="732-5008-ND"/>
+      <property name="Symbol" value="0Dan_Discreet:LED"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>ee0f0524-eec0-4195-bef4-1873a6762af9</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>Green 3mm</value>
+      <footprint>Discreet_TH:LED_3mm_wurth</footprint>
+      <datasheet>https://www.we-online.com/components/products/datasheet/151031VS06000.pdf</datasheet>
+      <fields>
+        <field name="Color">Green</field>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">732-5008-ND</field>
+        <field name="If (mA)">20</field>
+        <field name="MFG">Würth Elektronik</field>
+        <field name="MFG PN">151031VS06000</field>
+        <field name="Name">Green 3mm 560nm 2.2v 20mA  </field>
+        <field name="Size">3mm</field>
+        <field name="Symbol">0Dan_Discreet:LED</field>
+        <field name="Vf">2.2</field>
+        <field name="Wavelength">560</field>
+      </fields>
+      <libsource lib="Danakil_database" part="LEDs - Standard - Indicator - Through Hole/Green 3mm 560nm 2.2v 20mA  " description="Light emitting diode"/>
+      <property name="Name" value="Green 3mm 560nm 2.2v 20mA  "/>
+      <property name="Color" value="Green"/>
+      <property name="Wavelength" value="560"/>
+      <property name="Vf" value="2.2"/>
+      <property name="If (mA)" value="20"/>
+      <property name="Size" value="3mm"/>
+      <property name="MFG" value="Würth Elektronik"/>
+      <property name="MFG PN" value="151031VS06000"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="732-5008-ND"/>
+      <property name="Symbol" value="0Dan_Discreet:LED"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>937aa07a-460a-4252-b809-9426b3f853b7</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>Schottky 40V 0.12A SMD</value>
+      <footprint>Discreet_SMD:SOT-23-3_1</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAS40-05.pdf</datasheet>
+      <fields>
+        <field name="Comment">Dual CC</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1727-4235-1-ND</field>
+        <field name="I (max)">0.12A</field>
+        <field name="MFG">Nexperia USA Inc.</field>
+        <field name="MFG PN">BAS40-05,215</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">Schottky 40V 0.12A SMD Dual CC</field>
+        <field name="Symbol">0Dan_Discreet:Diode_Schottky_BAS40-05</field>
+        <field name="Vf@If (max)">1V@40mA</field>
+        <field name="Vr (max)">40V</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Discreet - Diodes - Schottky/Schottky 40V 0.12A SMD Dual CC" description=""/>
+      <property name="Name" value="Schottky 40V 0.12A SMD Dual CC"/>
+      <property name="Vr (max)" value="40V"/>
+      <property name="Vf@If (max)" value="1V@40mA"/>
+      <property name="I (max)" value="0.12A"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="MFG" value="Nexperia USA Inc."/>
+      <property name="MFG PN" value="BAS40-05,215"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1727-4235-1-ND"/>
+      <property name="Symbol" value="0Dan_Discreet:Diode_Schottky_BAS40-05"/>
+      <property name="Comment" value="Dual CC"/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>03322f14-7771-4e96-8a38-2fdd86633636</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>Schottky 40V 0.12A SMD</value>
+      <footprint>Discreet_SMD:SOT-23-3_1</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAS40-05.pdf</datasheet>
+      <fields>
+        <field name="Comment">Dual CC</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1727-4235-1-ND</field>
+        <field name="I (max)">0.12A</field>
+        <field name="MFG">Nexperia USA Inc.</field>
+        <field name="MFG PN">BAS40-05,215</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">Schottky 40V 0.12A SMD Dual CC</field>
+        <field name="Symbol">0Dan_Discreet:Diode_Schottky_BAS40-05</field>
+        <field name="Vf@If (max)">1V@40mA</field>
+        <field name="Vr (max)">40V</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Discreet - Diodes - Schottky/Schottky 40V 0.12A SMD Dual CC" description=""/>
+      <property name="Name" value="Schottky 40V 0.12A SMD Dual CC"/>
+      <property name="Vr (max)" value="40V"/>
+      <property name="Vf@If (max)" value="1V@40mA"/>
+      <property name="I (max)" value="0.12A"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="MFG" value="Nexperia USA Inc."/>
+      <property name="MFG PN" value="BAS40-05,215"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1727-4235-1-ND"/>
+      <property name="Symbol" value="0Dan_Discreet:Diode_Schottky_BAS40-05"/>
+      <property name="Comment" value="Dual CC"/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>e5453b71-0117-4546-9da2-479ea768bec2</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>330</value>
+      <footprint>Resistors_SMD:R_1206_3216Metric</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</datasheet>
+      <fields>
+        <field name="Comment">Automotive</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">RMCF1206FT330RCT-ND</field>
+        <field name="MFG">Stackpole Electronics Inc</field>
+        <field name="MFG PN">RMCF1206FT330R</field>
+        <field name="Name">330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive</field>
+        <field name="Power">0.25</field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:R_US</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Temp Co">100</field>
+        <field name="Tolerance">1</field>
+        <field name="Voltage">200v</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Resistors - Single - SMD/330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive" description="Resistor, US symbol"/>
+      <property name="Name" value="330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive"/>
+      <property name="Tolerance" value="1"/>
+      <property name="Size" value="1206"/>
+      <property name="Power" value="0.25"/>
+      <property name="Voltage" value="200v"/>
+      <property name="Technology" value="Thick Film"/>
+      <property name="Temp Co" value="100"/>
+      <property name="MFG" value="Stackpole Electronics Inc"/>
+      <property name="MFG PN" value="RMCF1206FT330R"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="RMCF1206FT330RCT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:R_US"/>
+      <property name="Comment" value="Automotive"/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>1bb94a8b-0509-4d29-9d57-ca26d965d451</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>330</value>
+      <footprint>Resistors_SMD:R_1206_3216Metric</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</datasheet>
+      <fields>
+        <field name="Comment">Automotive</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">RMCF1206FT330RCT-ND</field>
+        <field name="MFG">Stackpole Electronics Inc</field>
+        <field name="MFG PN">RMCF1206FT330R</field>
+        <field name="Name">330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive</field>
+        <field name="Power">0.25</field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:R_US</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Temp Co">100</field>
+        <field name="Tolerance">1</field>
+        <field name="Voltage">200v</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Resistors - Single - SMD/330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive" description="Resistor, US symbol"/>
+      <property name="Name" value="330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive"/>
+      <property name="Tolerance" value="1"/>
+      <property name="Size" value="1206"/>
+      <property name="Power" value="0.25"/>
+      <property name="Voltage" value="200v"/>
+      <property name="Technology" value="Thick Film"/>
+      <property name="Temp Co" value="100"/>
+      <property name="MFG" value="Stackpole Electronics Inc"/>
+      <property name="MFG PN" value="RMCF1206FT330R"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="RMCF1206FT330RCT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:R_US"/>
+      <property name="Comment" value="Automotive"/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>9566c72a-226c-4d5a-8a99-fef726b48ff4</tstamps>
+    </comp>
+    <comp ref="RN1">
+      <value>1k</value>
+      <footprint>Resistors_SMD_Networks:BO_CAY16</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">CAY16-1001F4LFCT-ND</field>
+        <field name="MFG">Bourns Inc.</field>
+        <field name="MFG PN">CAY16-1001F4LF</field>
+        <field name="Matching Ratio"> </field>
+        <field name="Max Voltage">50</field>
+        <field name="Name">1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  </field>
+        <field name="Number of elements">4</field>
+        <field name="Power / element (mW)">62.5</field>
+        <field name="Ratio Drift (PPM/°C)"> </field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:R_Network04_Iso</field>
+        <field name="TCR (PPM/°C)">200</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Tolerance (%)">1</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Resistors - Isolated Array/1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  " description="4 resistor network"/>
+      <property name="Name" value="1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  "/>
+      <property name="Tolerance (%)" value="1"/>
+      <property name="Matching Ratio" value=" "/>
+      <property name="TCR (PPM/°C)" value="200"/>
+      <property name="Ratio Drift (PPM/°C)" value=" "/>
+      <property name="Number of elements" value="4"/>
+      <property name="Power / element (mW)" value="62.5"/>
+      <property name="Max Voltage" value="50"/>
+      <property name="Size" value="1206"/>
+      <property name="Technology" value="Thick Film"/>
+      <property name="MFG" value="Bourns Inc."/>
+      <property name="MFG PN" value="CAY16-1001F4LF"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="CAY16-1001F4LFCT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:R_Network04_Iso"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <property name="ki_description" value="4 resistor network"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>91c8dfec-138e-4d94-8e75-452abcc5a4f0 d02370d9-1def-4c40-af61-9da95df69b96 8d0d8bec-3d3e-4151-bd1e-893c59ed6775 6ce5c9f2-b44f-46a3-800e-ba95731190ef</tstamps>
+    </comp>
+    <comp ref="RN2">
+      <value>1k</value>
+      <footprint>Resistors_SMD_Networks:BO_CAY16</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">CAY16-1001F4LFCT-ND</field>
+        <field name="MFG">Bourns Inc.</field>
+        <field name="MFG PN">CAY16-1001F4LF</field>
+        <field name="Matching Ratio"> </field>
+        <field name="Max Voltage">50</field>
+        <field name="Name">1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  </field>
+        <field name="Number of elements">4</field>
+        <field name="Power / element (mW)">62.5</field>
+        <field name="Ratio Drift (PPM/°C)"> </field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:R_Network04_Iso</field>
+        <field name="TCR (PPM/°C)">200</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Tolerance (%)">1</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Resistors - Isolated Array/1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  " description="4 resistor network"/>
+      <property name="Name" value="1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  "/>
+      <property name="Tolerance (%)" value="1"/>
+      <property name="Matching Ratio" value=" "/>
+      <property name="TCR (PPM/°C)" value="200"/>
+      <property name="Ratio Drift (PPM/°C)" value=" "/>
+      <property name="Number of elements" value="4"/>
+      <property name="Power / element (mW)" value="62.5"/>
+      <property name="Max Voltage" value="50"/>
+      <property name="Size" value="1206"/>
+      <property name="Technology" value="Thick Film"/>
+      <property name="MFG" value="Bourns Inc."/>
+      <property name="MFG PN" value="CAY16-1001F4LF"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="CAY16-1001F4LFCT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:R_Network04_Iso"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <property name="ki_description" value="4 resistor network"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>74c63da8-b3d5-45d5-a12c-55fe5feaaea0 022f01fe-a33b-406d-89a9-3ddb98046aff d2bd589a-5b69-4db2-b4fb-2fd0307252ca 016c0d24-bdf0-4df4-8ea9-807ae6b52496</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Push 30V 0.1A</value>
+      <footprint>Switches_Push:SW_TL2230EEF100</footprint>
+      <datasheet>https://configured-product-images.s3.amazonaws.com/Datasheets/TL2230.pdf</datasheet>
+      <fields>
+        <field name="Comment">Latching</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">E-Switch</field>
+        <field name="Imax (DC)">0.1A</field>
+        <field name="MFG">E-Switch</field>
+        <field name="MFG PN">TL2230EEF100</field>
+        <field name="Name">DPDT Push 30V 0.1A</field>
+        <field name="Symbol">0Dan_Switches:Push_DPDT_Latching</field>
+        <field name="Type">DPDT</field>
+        <field name="Vmax (DC)">30V</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Switches - Push/DPDT Push 30V 0.1A" description=""/>
+      <property name="Name" value="DPDT Push 30V 0.1A"/>
+      <property name="Type" value="DPDT"/>
+      <property name="Vmax (DC)" value="30V"/>
+      <property name="Imax (DC)" value="0.1A"/>
+      <property name="MFG" value="E-Switch"/>
+      <property name="MFG PN" value="TL2230EEF100"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="E-Switch"/>
+      <property name="Symbol" value="0Dan_Switches:Push_DPDT_Latching"/>
+      <property name="Comment" value="Latching"/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>786b0418-33c8-477b-b807-ea8b318545c7</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>Push 30V 0.1A</value>
+      <footprint>Switches_Push:SW_TL2230EEF100</footprint>
+      <datasheet>https://configured-product-images.s3.amazonaws.com/Datasheets/TL2230.pdf</datasheet>
+      <fields>
+        <field name="Comment">Latching</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">E-Switch</field>
+        <field name="Imax (DC)">0.1A</field>
+        <field name="MFG">E-Switch</field>
+        <field name="MFG PN">TL2230EEF100</field>
+        <field name="Name">DPDT Push 30V 0.1A</field>
+        <field name="Symbol">0Dan_Switches:Push_DPDT_Latching</field>
+        <field name="Type">DPDT</field>
+        <field name="Vmax (DC)">30V</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Switches - Push/DPDT Push 30V 0.1A" description=""/>
+      <property name="Name" value="DPDT Push 30V 0.1A"/>
+      <property name="Type" value="DPDT"/>
+      <property name="Vmax (DC)" value="30V"/>
+      <property name="Imax (DC)" value="0.1A"/>
+      <property name="MFG" value="E-Switch"/>
+      <property name="MFG PN" value="TL2230EEF100"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="E-Switch"/>
+      <property name="Symbol" value="0Dan_Switches:Push_DPDT_Latching"/>
+      <property name="Comment" value="Latching"/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>3723f3fc-afa3-4021-b1b1-4f9c5025099c</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM324</value>
+      <footprint>ICs:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/lm224.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&amp;ts=1741206371483</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">296-9540-1-ND</field>
+        <field name="MFG">Texas Instruments</field>
+        <field name="MFG PN">LM324ADR</field>
+        <field name="Name">LM324</field>
+        <field name="Symbol">0Dan_OpAmps:LM324</field>
+      </fields>
+      <libsource lib="Danakil_database" part="ICs - Analog - OP Amp/LM324" description="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Name" value="LM324"/>
+      <property name="MFG" value="Texas Instruments"/>
+      <property name="MFG PN" value="LM324ADR"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="296-9540-1-ND"/>
+      <property name="Symbol" value="0Dan_OpAmps:LM324"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <property name="ki_description" value="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="ki_keywords" value="quad opamp"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>7abe0e7d-dc80-4f10-a8a3-d2ce72442934 2c81cace-56ba-440d-9a16-ffa0eefa1cff</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>x399 Vref Socket</value>
+      <footprint>Connectors_ICskt:x399_Socket</footprint>
+      <datasheet>https://drawings-pdf.s3.amazonaws.com/10497.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">S5750-02-ND</field>
+        <field name="For">x399 Vref</field>
+        <field name="MFG">Sullins Connector Solutions</field>
+        <field name="MFG PN">NPPN022AFCN-RC</field>
+        <field name="Name">x399 Vref Socket</field>
+        <field name="Symbol">0Dan_VRefs-BZener:LM399</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Connectors - IC socket/x399 Vref Socket" description=""/>
+      <property name="Name" value="x399 Vref Socket"/>
+      <property name="For" value="x399 Vref"/>
+      <property name="MFG" value="Sullins Connector Solutions"/>
+      <property name="MFG PN" value="NPPN022AFCN-RC"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="S5750-02-ND"/>
+      <property name="Symbol" value="0Dan_VRefs-BZener:LM399"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>3f6d9b0b-4a79-4139-a4dd-dca73d14a9d9</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>x399 Vref Socket</value>
+      <footprint>Connectors_ICskt:x399_Socket</footprint>
+      <datasheet>https://drawings-pdf.s3.amazonaws.com/10497.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">S5750-02-ND</field>
+        <field name="For">x399 Vref</field>
+        <field name="MFG">Sullins Connector Solutions</field>
+        <field name="MFG PN">NPPN022AFCN-RC</field>
+        <field name="Name">x399 Vref Socket</field>
+        <field name="Symbol">0Dan_VRefs-BZener:LM399</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Connectors - IC socket/x399 Vref Socket" description=""/>
+      <property name="Name" value="x399 Vref Socket"/>
+      <property name="For" value="x399 Vref"/>
+      <property name="MFG" value="Sullins Connector Solutions"/>
+      <property name="MFG PN" value="NPPN022AFCN-RC"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="S5750-02-ND"/>
+      <property name="Symbol" value="0Dan_VRefs-BZener:LM399"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 1"/>
+      <property name="Sheetfile" value="Vref 1.kicad_sch"/>
+      <sheetpath names="/Vref 1/" tstamps="/13784455-5fd1-4bc3-b23b-06db0e8ed780/"/>
+      <tstamps>ca4af638-cc75-4cdc-b23f-48cece658a59</tstamps>
+    </comp>
+    <comp ref="AC-DC1">
+      <value>18V 1A 18W</value>
+      <footprint>Connectors:CUI_PJ-002B</footprint>
+      <datasheet>https://globtek.secure.force.com/spec/?id=01t0c0000097CKB</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Current (A)">1</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1939-2007-ND</field>
+        <field name="MFG">GlobTek, Inc.</field>
+        <field name="MFG PN">WR9HH1000LCP-F(R6B)</field>
+        <field name="Mating Connector PN">PJ-002B</field>
+        <field name="Name">18V 1A 18W Wall Wart  </field>
+        <field name="Symbol">0Dan_PSUs_WallWarts:WR9HH1000LCP-F(R6B)</field>
+        <field name="Voltage (v)">18</field>
+        <field name="Wattage (W)">18</field>
+      </fields>
+      <libsource lib="Danakil_database" part="PSUs - Wall Wart/18V 1A 18W Wall Wart  " description=""/>
+      <property name="Name" value="18V 1A 18W Wall Wart  "/>
+      <property name="Voltage (v)" value="18"/>
+      <property name="Current (A)" value="1"/>
+      <property name="Wattage (W)" value="18"/>
+      <property name="Mating Connector PN" value="PJ-002B"/>
+      <property name="MFG" value="GlobTek, Inc."/>
+      <property name="MFG PN" value="WR9HH1000LCP-F(R6B)"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1939-2007-ND"/>
+      <property name="Symbol" value="0Dan_PSUs_WallWarts:WR9HH1000LCP-F(R6B)"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>d3c2d925-5f82-4f99-8ff0-12600d70d3d0</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL31A106KAHNNNE_SS.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-1075-1-ND</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL31A106KAHNNNE</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">10uF 25V 1206 X5R SMD MLCC  </field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Technology">MLCC</field>
+        <field name="Temp Co">X5R</field>
+        <field name="Voltage">25</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Capacitors - Unpolarized/10uF 25V 1206 X5R SMD MLCC  " description="Unpolarized capacitor"/>
+      <property name="Name" value="10uF 25V 1206 X5R SMD MLCC  "/>
+      <property name="Size" value="1206"/>
+      <property name="Voltage" value="25"/>
+      <property name="Temp Co" value="X5R"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Technology" value="MLCC"/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG PN" value="CL31A106KAHNNNE"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1276-1075-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:C"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>b0926e09-c0a3-431b-b1e3-954d6f2fd80a</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1256/CL31B104KBCNNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-1017-1-ND</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL31B104KBCNNNC</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">100nF 50V 1206 X7R SMD MLCC  </field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Technology">MLCC</field>
+        <field name="Temp Co">X7R</field>
+        <field name="Voltage">50</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Capacitors - Unpolarized/100nF 50V 1206 X7R SMD MLCC  " description="Unpolarized capacitor"/>
+      <property name="Name" value="100nF 50V 1206 X7R SMD MLCC  "/>
+      <property name="Size" value="1206"/>
+      <property name="Voltage" value="50"/>
+      <property name="Temp Co" value="X7R"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Technology" value="MLCC"/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG PN" value="CL31B104KBCNNNC"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1276-1017-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:C"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>6b77cc83-1150-469c-9330-45b8e05f10fd</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL31A106KAHNNNE_SS.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-1075-1-ND</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL31A106KAHNNNE</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">10uF 25V 1206 X5R SMD MLCC  </field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Technology">MLCC</field>
+        <field name="Temp Co">X5R</field>
+        <field name="Voltage">25</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Capacitors - Unpolarized/10uF 25V 1206 X5R SMD MLCC  " description="Unpolarized capacitor"/>
+      <property name="Name" value="10uF 25V 1206 X5R SMD MLCC  "/>
+      <property name="Size" value="1206"/>
+      <property name="Voltage" value="25"/>
+      <property name="Temp Co" value="X5R"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Technology" value="MLCC"/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG PN" value="CL31A106KAHNNNE"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1276-1075-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:C"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>4ad77781-249d-47a0-ba36-76af8b5ff66b</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL31B475KAHNNNE_Spec.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-1055-1-ND</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL31B475KAHNNNE</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">4.7uF 25V 1206 X7R SMD MLCC  </field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Technology">MLCC</field>
+        <field name="Temp Co">X7R</field>
+        <field name="Voltage">25</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Capacitors - Unpolarized/4.7uF 25V 1206 X7R SMD MLCC  " description="Unpolarized capacitor"/>
+      <property name="Name" value="4.7uF 25V 1206 X7R SMD MLCC  "/>
+      <property name="Size" value="1206"/>
+      <property name="Voltage" value="25"/>
+      <property name="Temp Co" value="X7R"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Technology" value="MLCC"/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG PN" value="CL31B475KAHNNNE"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1276-1055-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:C"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>c3e83de5-0b64-4baa-a7b8-b3bf5097eae5</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL31B475KAHNNNE_Spec.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-1055-1-ND</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL31B475KAHNNNE</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">4.7uF 25V 1206 X7R SMD MLCC  </field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Technology">MLCC</field>
+        <field name="Temp Co">X7R</field>
+        <field name="Voltage">25</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Capacitors - Unpolarized/4.7uF 25V 1206 X7R SMD MLCC  " description="Unpolarized capacitor"/>
+      <property name="Name" value="4.7uF 25V 1206 X7R SMD MLCC  "/>
+      <property name="Size" value="1206"/>
+      <property name="Voltage" value="25"/>
+      <property name="Temp Co" value="X7R"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Technology" value="MLCC"/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG PN" value="CL31B475KAHNNNE"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1276-1055-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:C"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>ab6158e8-bb2b-4721-97b3-e931b9b9e5b2</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL05Y105KP6VPN</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-6495-1-ND</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL21F105ZBFNNNG</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">1uF 50V 0805 Y5V SMD MLCC  </field>
+        <field name="Size">0805</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Technology">MLCC</field>
+        <field name="Temp Co">Y5V</field>
+        <field name="Voltage">50</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Capacitors - Unpolarized/1uF 50V 0805 Y5V SMD MLCC  " description="Unpolarized capacitor"/>
+      <property name="Name" value="1uF 50V 0805 Y5V SMD MLCC  "/>
+      <property name="Size" value="0805"/>
+      <property name="Voltage" value="50"/>
+      <property name="Temp Co" value="Y5V"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Technology" value="MLCC"/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG PN" value="CL21F105ZBFNNNG"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1276-6495-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:C"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>498a24a2-d321-4c71-acdc-dcf8503691a5</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1256/CL31B104KBCNNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-1017-1-ND</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL31B104KBCNNNC</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">100nF 50V 1206 X7R SMD MLCC  </field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Technology">MLCC</field>
+        <field name="Temp Co">X7R</field>
+        <field name="Voltage">50</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Capacitors - Unpolarized/100nF 50V 1206 X7R SMD MLCC  " description="Unpolarized capacitor"/>
+      <property name="Name" value="100nF 50V 1206 X7R SMD MLCC  "/>
+      <property name="Size" value="1206"/>
+      <property name="Voltage" value="50"/>
+      <property name="Temp Co" value="X7R"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Technology" value="MLCC"/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG PN" value="CL31B104KBCNNNC"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1276-1017-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:C"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>3ec82a43-bb92-42ea-b0fb-5ca778e75c3c</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>Schottky 40V 2A SMD</value>
+      <footprint>Diodes:D_SOD-123F</footprint>
+      <datasheet>https://www.panjit.com.tw/upload/datasheet/SS2040LL.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">3757-SS2040LL_R1_00001CT-ND</field>
+        <field name="I (max)">2A</field>
+        <field name="MFG">Panjit International Inc.</field>
+        <field name="MFG PN">SS2040LL_R1_00001</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">Schottky 40V 2A SMD  </field>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Symbol">0Dan_Discreet:Diode_Schottky</field>
+        <field name="Vf@If (max)">0.45V@2A</field>
+        <field name="Vr (max)">40V</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Discreet - Diodes - Schottky/Schottky 40V 2A SMD  " description=""/>
+      <property name="Sim.Device" value=""/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Name" value="Schottky 40V 2A SMD  "/>
+      <property name="Vr (max)" value="40V"/>
+      <property name="Vf@If (max)" value="0.45V@2A"/>
+      <property name="I (max)" value="2A"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="MFG" value="Panjit International Inc."/>
+      <property name="MFG PN" value="SS2040LL_R1_00001"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="3757-SS2040LL_R1_00001CT-ND"/>
+      <property name="Symbol" value="0Dan_Discreet:Diode_Schottky"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>72ecb270-133b-481f-ad6b-b3a04ad05d41</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>Green 3mm</value>
+      <footprint>Discreet_TH:LED_3mm_wurth</footprint>
+      <datasheet>https://www.we-online.com/components/products/datasheet/151031VS06000.pdf</datasheet>
+      <fields>
+        <field name="Color">Green</field>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">732-5008-ND</field>
+        <field name="If (mA)">20</field>
+        <field name="MFG">Würth Elektronik</field>
+        <field name="MFG PN">151031VS06000</field>
+        <field name="Name">Green 3mm 560nm 2.2v 20mA  </field>
+        <field name="Size">3mm</field>
+        <field name="Symbol">0Dan_Discreet:LED</field>
+        <field name="Vf">2.2</field>
+        <field name="Wavelength">560</field>
+      </fields>
+      <libsource lib="Danakil_database" part="LEDs - Standard - Indicator - Through Hole/Green 3mm 560nm 2.2v 20mA  " description="Light emitting diode"/>
+      <property name="Name" value="Green 3mm 560nm 2.2v 20mA  "/>
+      <property name="Color" value="Green"/>
+      <property name="Wavelength" value="560"/>
+      <property name="Vf" value="2.2"/>
+      <property name="If (mA)" value="20"/>
+      <property name="Size" value="3mm"/>
+      <property name="MFG" value="Würth Elektronik"/>
+      <property name="MFG PN" value="151031VS06000"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="732-5008-ND"/>
+      <property name="Symbol" value="0Dan_Discreet:LED"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>11165465-0a1d-4c83-9440-24f6711db0d8</tstamps>
+    </comp>
+    <comp ref="DC-DC1">
+      <value>5v 0.5A Buck</value>
+      <footprint>DCDC_NonIso:R-78E-0.5</footprint>
+      <datasheet>https://recom-power.com/pdf/Innoline/R-78E-0.5.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">945-1648-5-ND</field>
+        <field name="Iout">0.5A</field>
+        <field name="MFG">Recom Power</field>
+        <field name="MFG PN">R-78E5.0-0.5</field>
+        <field name="Name">Buck 7v-28v to 5v0.5A</field>
+        <field name="Symbol">0Dan_PSUs:78xx Replacement</field>
+        <field name="Type">Buck</field>
+        <field name="Vin (max)">28v</field>
+        <field name="Vin (min)">7v</field>
+        <field name="Vout">5v</field>
+      </fields>
+      <libsource lib="Danakil_database" part="PSUs - PCB Mount - DC-DC - Non-Isolated/Buck 7v-28v to 5v0.5A" description=""/>
+      <property name="Name" value="Buck 7v-28v to 5v0.5A"/>
+      <property name="Type" value="Buck"/>
+      <property name="Vout" value="5v"/>
+      <property name="Iout" value="0.5A"/>
+      <property name="Vin (min)" value="7v"/>
+      <property name="Vin (max)" value="28v"/>
+      <property name="MFG" value="Recom Power"/>
+      <property name="MFG PN" value="R-78E5.0-0.5"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="945-1648-5-ND"/>
+      <property name="Symbol" value="0Dan_PSUs:78xx Replacement"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>539dc8e4-d8e8-4046-8ba8-3fd4f2bb0e9e</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>125VAC/63VDC 1A F</value>
+      <footprint>Protection_Fuses:Fuse_1206</footprint>
+      <datasheet>https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-c1f-series.pdf</datasheet>
+      <fields>
+        <field name="Breaking Capacity (A AC)">100</field>
+        <field name="Breaking Capacity (A DC)">50</field>
+        <field name="Comment"> </field>
+        <field name="Current Rating (A)">1</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">5923-C1F1CT-ND</field>
+        <field name="MFG">Bel Fuse Inc.</field>
+        <field name="MFG PN">C1F 1</field>
+        <field name="Melting I2T">0.012</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">125VAC/63VDC 1A F SMD  </field>
+        <field name="Response Time">F</field>
+        <field name="Symbol">0Dan_Protection:Fuse</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Protection - Fuses/125VAC/63VDC 1A F SMD  " description=""/>
+      <property name="Name" value="125VAC/63VDC 1A F SMD  "/>
+      <property name="Current Rating (A)" value="1"/>
+      <property name="Response Time" value="F"/>
+      <property name="Breaking Capacity (A AC)" value="100"/>
+      <property name="Breaking Capacity (A DC)" value="50"/>
+      <property name="Melting I2T" value="0.012"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="MFG" value="Bel Fuse Inc."/>
+      <property name="MFG PN" value="C1F 1"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="5923-C1F1CT-ND"/>
+      <property name="Symbol" value="0Dan_Protection:Fuse"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>53feeb84-0c30-4542-99ff-a84ba0bf268f</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>600Ω@100MHz 0.1ΩDCR</value>
+      <footprint>Inductors_SMD:L_0805_2012Metric</footprint>
+      <datasheet>https://fair-rite.com/product/chip-beads-2508056017y2/</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="DCR (max)">0.1Ω</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1934-1487-1-ND</field>
+        <field name="Imax">2A</field>
+        <field name="MFG">Fair-Rite Products Corp.</field>
+        <field name="MFG PN">2508056017Y2</field>
+        <field name="Name">600Ω@100MHz 2A 0.1ΩDCR</field>
+        <field name="Symbol">0Dan_Passives:FB</field>
+        <field name="Z@Freq">600Ω@100MHz</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Inductors - Ferrite Bead/600Ω@100MHz 2A 0.1ΩDCR" description=""/>
+      <property name="Name" value="600Ω@100MHz 2A 0.1ΩDCR"/>
+      <property name="Z@Freq" value="600Ω@100MHz"/>
+      <property name="Imax" value="2A"/>
+      <property name="DCR (max)" value="0.1Ω"/>
+      <property name="MFG" value="Fair-Rite Products Corp."/>
+      <property name="MFG PN" value="2508056017Y2"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1934-1487-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:FB"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>09529e1f-cbc0-4e21-88aa-ead818495732</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>2.5mmID 5.5mmOD</value>
+      <footprint>Connectors:CUI_PJ-002B</footprint>
+      <datasheet>https://www.sameskydevices.com/product/resource/pj-002b.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">CP-002B-ND</field>
+        <field name="ID">2.5mm</field>
+        <field name="MFG">Same Sky (Formerly CUI Devices)</field>
+        <field name="MFG PN">PJ-002B</field>
+        <field name="Name">2.5mmID 5.5mmOD  </field>
+        <field name="OD">5.5mm</field>
+        <field name="Symbol">0Dan_Connectors:Barrel_Jack_Switch</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Connectors - Barrel Jack/2.5mmID 5.5mmOD  " description="DC Barrel Jack with an internal switch"/>
+      <property name="Name" value="2.5mmID 5.5mmOD  "/>
+      <property name="ID" value="2.5mm"/>
+      <property name="OD" value="5.5mm"/>
+      <property name="MFG" value="Same Sky (Formerly CUI Devices)"/>
+      <property name="MFG PN" value="PJ-002B"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="CP-002B-ND"/>
+      <property name="Symbol" value="0Dan_Connectors:Barrel_Jack_Switch"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="DC Barrel Jack with an internal switch"/>
+      <property name="ki_keywords" value="DC power barrel jack connector"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>d9af630f-84b4-4f66-9dc6-9475dec8877f</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>12u</value>
+      <footprint>Inductors_SMD:ASPI-6045S-120M-T</footprint>
+      <datasheet>https://abracon.com/Magnetics/power/ASPI-6045S.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="DCR">58m</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">535-ASPI-6045S-120M-TCT-ND</field>
+        <field name="MFG">Abracon LLC</field>
+        <field name="MFG PN">ASPI-6045S-120M-T</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">12uH 2.2A 58mΩ 20% NonStd SMD  </field>
+        <field name="Size">NonStd</field>
+        <field name="Symbol">0Dan_Passives:L</field>
+        <field name="Tolerance">20</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Inductors/12uH 2.2A 58mΩ 20% NonStd SMD  " description="Inductor"/>
+      <property name="Name" value="12uH 2.2A 58mΩ 20% NonStd SMD  "/>
+      <property name="Size" value="NonStd"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Tolerance" value="20"/>
+      <property name="DCR" value="58m"/>
+      <property name="MFG" value="Abracon LLC"/>
+      <property name="MFG PN" value="ASPI-6045S-120M-T"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="535-ASPI-6045S-120M-TCT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:L"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>3fcd2d64-7dae-47a3-bb1f-96f6d06ecc9a</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2222A</value>
+      <footprint>Discreet_SMD:SOT-23-3</footprint>
+      <datasheet>https://www.mccsemi.com/pdf/Products/MMBT2222A(SOT-23).pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">MMBT2222ATPMSCT-ND</field>
+        <field name="Gain">100</field>
+        <field name="Ic">0.6A</field>
+        <field name="MFG">MCC (Micro Commercial Components)</field>
+        <field name="MFG PN">MMBT2222A-TP</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">2222A 40V-Vce 0.6A-Ic 0.35W 100-Bmin SMD  </field>
+        <field name="Pmax">0.35W</field>
+        <field name="Sim.Device">NPN</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+        <field name="Symbol">0Dan_Discreet:NPN</field>
+        <field name="Vce">40V</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Discreet - Transistors - BJT - NPN/2222A 40V-Vce 0.6A-Ic 0.35W 100-Bmin SMD  " description="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="Sim.Device" value="NPN"/>
+      <property name="Sim.Type" value="GUMMELPOON"/>
+      <property name="Sim.Pins" value="1=C 2=B 3=E"/>
+      <property name="Name" value="2222A 40V-Vce 0.6A-Ic 0.35W 100-Bmin SMD  "/>
+      <property name="Vce" value="40V"/>
+      <property name="Ic" value="0.6A"/>
+      <property name="Pmax" value="0.35W"/>
+      <property name="Gain" value="100"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="MFG" value="MCC (Micro Commercial Components)"/>
+      <property name="MFG PN" value="MMBT2222A-TP"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="MMBT2222ATPMSCT-ND"/>
+      <property name="Symbol" value="0Dan_Discreet:NPN"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="ki_keywords" value="simulation"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>4000a484-3372-4aa3-a471-9e6b82bc6890</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_1206_3216Metric</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</datasheet>
+      <fields>
+        <field name="Comment">Automotive</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">RMCF1206FT1K00CT-ND</field>
+        <field name="MFG">Stackpole Electronics Inc</field>
+        <field name="MFG PN">RMCF1206FT1K00</field>
+        <field name="Name">1kΩ 1% 1206 0.25w Thick Film 200ppm/°C Automotive</field>
+        <field name="Power">0.25</field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:R_US</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Temp Co">200</field>
+        <field name="Tolerance">1</field>
+        <field name="Voltage">200v</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Resistors - Single - SMD/1kΩ 1% 1206 0.25w Thick Film 200ppm/°C Automotive" description="Resistor, US symbol"/>
+      <property name="Name" value="1kΩ 1% 1206 0.25w Thick Film 200ppm/°C Automotive"/>
+      <property name="Tolerance" value="1"/>
+      <property name="Size" value="1206"/>
+      <property name="Power" value="0.25"/>
+      <property name="Voltage" value="200v"/>
+      <property name="Technology" value="Thick Film"/>
+      <property name="Temp Co" value="200"/>
+      <property name="MFG" value="Stackpole Electronics Inc"/>
+      <property name="MFG PN" value="RMCF1206FT1K00"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="RMCF1206FT1K00CT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:R_US"/>
+      <property name="Comment" value="Automotive"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>19fdadc1-d42f-4026-ac10-06a4c9e431a6</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>47k</value>
+      <footprint>Resistors_SMD:R_1206_3216Metric</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</datasheet>
+      <fields>
+        <field name="Comment">Automotive</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">RMCF1206FT47K0CT-ND</field>
+        <field name="MFG">Stackpole Electronics Inc</field>
+        <field name="MFG PN">RMCF1206FT47K0</field>
+        <field name="Name">47kΩ 1% 1206 0.25w Thick Film 100ppm/°C Automotive</field>
+        <field name="Power">0.25</field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:R_US</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Temp Co">100</field>
+        <field name="Tolerance">1</field>
+        <field name="Voltage">200v</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Resistors - Single - SMD/47kΩ 1% 1206 0.25w Thick Film 100ppm/°C Automotive" description="Resistor, US symbol"/>
+      <property name="Name" value="47kΩ 1% 1206 0.25w Thick Film 100ppm/°C Automotive"/>
+      <property name="Tolerance" value="1"/>
+      <property name="Size" value="1206"/>
+      <property name="Power" value="0.25"/>
+      <property name="Voltage" value="200v"/>
+      <property name="Technology" value="Thick Film"/>
+      <property name="Temp Co" value="100"/>
+      <property name="MFG" value="Stackpole Electronics Inc"/>
+      <property name="MFG PN" value="RMCF1206FT47K0"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="RMCF1206FT47K0CT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:R_US"/>
+      <property name="Comment" value="Automotive"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>daae453b-0fe3-44cc-b959-5e36770f9034</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>330</value>
+      <footprint>Resistors_SMD:R_1206_3216Metric</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</datasheet>
+      <fields>
+        <field name="Comment">Automotive</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">RMCF1206FT330RCT-ND</field>
+        <field name="MFG">Stackpole Electronics Inc</field>
+        <field name="MFG PN">RMCF1206FT330R</field>
+        <field name="Name">330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive</field>
+        <field name="Power">0.25</field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:R_US</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Temp Co">100</field>
+        <field name="Tolerance">1</field>
+        <field name="Voltage">200v</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Resistors - Single - SMD/330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive" description="Resistor, US symbol"/>
+      <property name="Name" value="330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive"/>
+      <property name="Tolerance" value="1"/>
+      <property name="Size" value="1206"/>
+      <property name="Power" value="0.25"/>
+      <property name="Voltage" value="200v"/>
+      <property name="Technology" value="Thick Film"/>
+      <property name="Temp Co" value="100"/>
+      <property name="MFG" value="Stackpole Electronics Inc"/>
+      <property name="MFG PN" value="RMCF1206FT330R"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="RMCF1206FT330RCT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:R_US"/>
+      <property name="Comment" value="Automotive"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>20c0b2f6-4ca4-4fbe-a375-d80b4661cfa4</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>14VAC/18VDC</value>
+      <footprint>Protection_MOV:MOV_0805</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/BVR0805.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">118-BVR0805-14PFRCT-ND</field>
+        <field name="Energy (J)"> </field>
+        <field name="MFG">Bourns Inc.</field>
+        <field name="MFG PN">BVR0805-14PFR</field>
+        <field name="Max ACV">14</field>
+        <field name="Max DCV">18</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">14VAC/18VDC 120A  J SMD  </field>
+        <field name="Surge Current (A)">120</field>
+        <field name="Symbol">0Dan_Protection:MOV</field>
+        <field name="Varistor Voltage (max)">28</field>
+        <field name="Varistor Voltage (min)">22</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Protection - MOVs/14VAC/18VDC 120A  J SMD  " description="Voltage dependent resistor, US symbol"/>
+      <property name="Digikey PN" value=""/>
+      <property name="Name" value="14VAC/18VDC 120A  J SMD  "/>
+      <property name="Max ACV" value="14"/>
+      <property name="Max DCV" value="18"/>
+      <property name="Varistor Voltage (min)" value="22"/>
+      <property name="Varistor Voltage (max)" value="28"/>
+      <property name="Surge Current (A)" value="120"/>
+      <property name="Energy (J)" value=" "/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="MFG" value="Bourns Inc."/>
+      <property name="MFG PN" value="BVR0805-14PFR"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="118-BVR0805-14PFRCT-ND"/>
+      <property name="Symbol" value="0Dan_Protection:MOV"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <property name="ki_description" value="Voltage dependent resistor, US symbol"/>
+      <property name="ki_keywords" value="VDR resistance"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>32d8956e-2db3-4127-b37e-92f0be7d655a</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>Push 30V 0.1A</value>
+      <footprint>Switches_Push:SW_TL2230EEF100</footprint>
+      <datasheet>https://configured-product-images.s3.amazonaws.com/Datasheets/TL2230.pdf</datasheet>
+      <fields>
+        <field name="Comment">Latching</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">E-Switch</field>
+        <field name="Imax (DC)">0.1A</field>
+        <field name="MFG">E-Switch</field>
+        <field name="MFG PN">TL2230EEF100</field>
+        <field name="Name">DPDT Push 30V 0.1A</field>
+        <field name="Symbol">0Dan_Switches:Push_DPDT_Latching</field>
+        <field name="Type">DPDT</field>
+        <field name="Vmax (DC)">30V</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Switches - Push/DPDT Push 30V 0.1A" description=""/>
+      <property name="Name" value="DPDT Push 30V 0.1A"/>
+      <property name="Type" value="DPDT"/>
+      <property name="Vmax (DC)" value="30V"/>
+      <property name="Imax (DC)" value="0.1A"/>
+      <property name="MFG" value="E-Switch"/>
+      <property name="MFG PN" value="TL2230EEF100"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="E-Switch"/>
+      <property name="Symbol" value="0Dan_Switches:Push_DPDT_Latching"/>
+      <property name="Comment" value="Latching"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>8b2f7f96-cdc3-4233-87d3-f652abf2c03c</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>78L15</value>
+      <footprint>ICs:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/l78l.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">497-7278-1-ND</field>
+        <field name="Iout Max">0.1</field>
+        <field name="MFG">STMicroelectronics</field>
+        <field name="MFG PN">L78L15ACD13TR</field>
+        <field name="Min ESR(mΩ)">0</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">78L15 Fixed 0.1A 1.7v@0.04A 35VinMax SMD  </field>
+        <field name="Symbol">0Dan_Linear_Regulation:78xx_1</field>
+        <field name="Type">Fixed</field>
+        <field name="Vdropout@I">1.7v@0.04A</field>
+        <field name="VinMax">35</field>
+        <field name="Vout">15</field>
+      </fields>
+      <libsource lib="Danakil_database" part="ICs - Power - Linear Regulation/78L15 Fixed 0.1A 1.7v@0.04A 35VinMax SMD  " description=""/>
+      <property name="Name" value="78L15 Fixed 0.1A 1.7v@0.04A 35VinMax SMD  "/>
+      <property name="Type" value="Fixed"/>
+      <property name="Vout" value="15"/>
+      <property name="Iout Max" value="0.1"/>
+      <property name="Vdropout@I" value="1.7v@0.04A"/>
+      <property name="VinMax" value="35"/>
+      <property name="Min ESR(mΩ)" value="0"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="MFG" value="STMicroelectronics"/>
+      <property name="MFG PN" value="L78L15ACD13TR"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="497-7278-1-ND"/>
+      <property name="Symbol" value="0Dan_Linear_Regulation:78xx_1"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/380b98c6-0268-4433-beda-27ce9c8b4718/"/>
+      <tstamps>55f01944-c9e5-4367-a088-7215cbdd4bb7</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL05Y105KP6VPN</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-6495-1-ND</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL21F105ZBFNNNG</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">1uF 50V 0805 Y5V SMD MLCC  </field>
+        <field name="Size">0805</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Technology">MLCC</field>
+        <field name="Temp Co">Y5V</field>
+        <field name="Voltage">50</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Capacitors - Unpolarized/1uF 50V 0805 Y5V SMD MLCC  " description="Unpolarized capacitor"/>
+      <property name="Name" value="1uF 50V 0805 Y5V SMD MLCC  "/>
+      <property name="Size" value="0805"/>
+      <property name="Voltage" value="50"/>
+      <property name="Temp Co" value="Y5V"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Technology" value="MLCC"/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG PN" value="CL21F105ZBFNNNG"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1276-6495-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:C"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>604505b8-93c2-48ac-a6f9-aa2e26c7bb3d</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL05Y105KP6VPN</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-6495-1-ND</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL21F105ZBFNNNG</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">1uF 50V 0805 Y5V SMD MLCC  </field>
+        <field name="Size">0805</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Technology">MLCC</field>
+        <field name="Temp Co">Y5V</field>
+        <field name="Voltage">50</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Capacitors - Unpolarized/1uF 50V 0805 Y5V SMD MLCC  " description="Unpolarized capacitor"/>
+      <property name="Name" value="1uF 50V 0805 Y5V SMD MLCC  "/>
+      <property name="Size" value="0805"/>
+      <property name="Voltage" value="50"/>
+      <property name="Temp Co" value="Y5V"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="Technology" value="MLCC"/>
+      <property name="MFG" value="Samsung Electro-Mechanics"/>
+      <property name="MFG PN" value="CL21F105ZBFNNNG"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1276-6495-1-ND"/>
+      <property name="Symbol" value="0Dan_Passives:C"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>db861fb5-e9f8-44b2-8efb-7565224edd63</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>Green 3mm</value>
+      <footprint>Discreet_TH:LED_3mm_wurth</footprint>
+      <datasheet>https://www.we-online.com/components/products/datasheet/151031VS06000.pdf</datasheet>
+      <fields>
+        <field name="Color">Green</field>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">732-5008-ND</field>
+        <field name="If (mA)">20</field>
+        <field name="MFG">Würth Elektronik</field>
+        <field name="MFG PN">151031VS06000</field>
+        <field name="Name">Green 3mm 560nm 2.2v 20mA  </field>
+        <field name="Size">3mm</field>
+        <field name="Symbol">0Dan_Discreet:LED</field>
+        <field name="Vf">2.2</field>
+        <field name="Wavelength">560</field>
+      </fields>
+      <libsource lib="Danakil_database" part="LEDs - Standard - Indicator - Through Hole/Green 3mm 560nm 2.2v 20mA  " description="Light emitting diode"/>
+      <property name="Name" value="Green 3mm 560nm 2.2v 20mA  "/>
+      <property name="Color" value="Green"/>
+      <property name="Wavelength" value="560"/>
+      <property name="Vf" value="2.2"/>
+      <property name="If (mA)" value="20"/>
+      <property name="Size" value="3mm"/>
+      <property name="MFG" value="Würth Elektronik"/>
+      <property name="MFG PN" value="151031VS06000"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="732-5008-ND"/>
+      <property name="Symbol" value="0Dan_Discreet:LED"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>c3d238a0-0919-4887-a642-9a3d0f845e8b</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>Green 3mm</value>
+      <footprint>Discreet_TH:LED_3mm_wurth</footprint>
+      <datasheet>https://www.we-online.com/components/products/datasheet/151031VS06000.pdf</datasheet>
+      <fields>
+        <field name="Color">Green</field>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">732-5008-ND</field>
+        <field name="If (mA)">20</field>
+        <field name="MFG">Würth Elektronik</field>
+        <field name="MFG PN">151031VS06000</field>
+        <field name="Name">Green 3mm 560nm 2.2v 20mA  </field>
+        <field name="Size">3mm</field>
+        <field name="Symbol">0Dan_Discreet:LED</field>
+        <field name="Vf">2.2</field>
+        <field name="Wavelength">560</field>
+      </fields>
+      <libsource lib="Danakil_database" part="LEDs - Standard - Indicator - Through Hole/Green 3mm 560nm 2.2v 20mA  " description="Light emitting diode"/>
+      <property name="Name" value="Green 3mm 560nm 2.2v 20mA  "/>
+      <property name="Color" value="Green"/>
+      <property name="Wavelength" value="560"/>
+      <property name="Vf" value="2.2"/>
+      <property name="If (mA)" value="20"/>
+      <property name="Size" value="3mm"/>
+      <property name="MFG" value="Würth Elektronik"/>
+      <property name="MFG PN" value="151031VS06000"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="732-5008-ND"/>
+      <property name="Symbol" value="0Dan_Discreet:LED"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>2c7fc536-969e-448d-8c62-e03029f7a23c</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>Schottky 40V 0.12A SMD</value>
+      <footprint>Discreet_SMD:SOT-23-3_1</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAS40-05.pdf</datasheet>
+      <fields>
+        <field name="Comment">Dual CC</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1727-4235-1-ND</field>
+        <field name="I (max)">0.12A</field>
+        <field name="MFG">Nexperia USA Inc.</field>
+        <field name="MFG PN">BAS40-05,215</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">Schottky 40V 0.12A SMD Dual CC</field>
+        <field name="Symbol">0Dan_Discreet:Diode_Schottky_BAS40-05</field>
+        <field name="Vf@If (max)">1V@40mA</field>
+        <field name="Vr (max)">40V</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Discreet - Diodes - Schottky/Schottky 40V 0.12A SMD Dual CC" description=""/>
+      <property name="Name" value="Schottky 40V 0.12A SMD Dual CC"/>
+      <property name="Vr (max)" value="40V"/>
+      <property name="Vf@If (max)" value="1V@40mA"/>
+      <property name="I (max)" value="0.12A"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="MFG" value="Nexperia USA Inc."/>
+      <property name="MFG PN" value="BAS40-05,215"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1727-4235-1-ND"/>
+      <property name="Symbol" value="0Dan_Discreet:Diode_Schottky_BAS40-05"/>
+      <property name="Comment" value="Dual CC"/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>69cda025-f090-44fc-9e67-a7cd1f10f730</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>Schottky 40V 0.12A SMD</value>
+      <footprint>Discreet_SMD:SOT-23-3_1</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAS40-05.pdf</datasheet>
+      <fields>
+        <field name="Comment">Dual CC</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1727-4235-1-ND</field>
+        <field name="I (max)">0.12A</field>
+        <field name="MFG">Nexperia USA Inc.</field>
+        <field name="MFG PN">BAS40-05,215</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Name">Schottky 40V 0.12A SMD Dual CC</field>
+        <field name="Symbol">0Dan_Discreet:Diode_Schottky_BAS40-05</field>
+        <field name="Vf@If (max)">1V@40mA</field>
+        <field name="Vr (max)">40V</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Discreet - Diodes - Schottky/Schottky 40V 0.12A SMD Dual CC" description=""/>
+      <property name="Name" value="Schottky 40V 0.12A SMD Dual CC"/>
+      <property name="Vr (max)" value="40V"/>
+      <property name="Vf@If (max)" value="1V@40mA"/>
+      <property name="I (max)" value="0.12A"/>
+      <property name="Mounting Type" value="SMD"/>
+      <property name="MFG" value="Nexperia USA Inc."/>
+      <property name="MFG PN" value="BAS40-05,215"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="1727-4235-1-ND"/>
+      <property name="Symbol" value="0Dan_Discreet:Diode_Schottky_BAS40-05"/>
+      <property name="Comment" value="Dual CC"/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>9063e72e-a2eb-4719-97f7-db3d0f719191</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>330</value>
+      <footprint>Resistors_SMD:R_1206_3216Metric</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</datasheet>
+      <fields>
+        <field name="Comment">Automotive</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">RMCF1206FT330RCT-ND</field>
+        <field name="MFG">Stackpole Electronics Inc</field>
+        <field name="MFG PN">RMCF1206FT330R</field>
+        <field name="Name">330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive</field>
+        <field name="Power">0.25</field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:R_US</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Temp Co">100</field>
+        <field name="Tolerance">1</field>
+        <field name="Voltage">200v</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Resistors - Single - SMD/330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive" description="Resistor, US symbol"/>
+      <property name="Name" value="330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive"/>
+      <property name="Tolerance" value="1"/>
+      <property name="Size" value="1206"/>
+      <property name="Power" value="0.25"/>
+      <property name="Voltage" value="200v"/>
+      <property name="Technology" value="Thick Film"/>
+      <property name="Temp Co" value="100"/>
+      <property name="MFG" value="Stackpole Electronics Inc"/>
+      <property name="MFG PN" value="RMCF1206FT330R"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="RMCF1206FT330RCT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:R_US"/>
+      <property name="Comment" value="Automotive"/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>5f440e6a-e460-4710-bd29-c64d60e5c98b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>330</value>
+      <footprint>Resistors_SMD:R_1206_3216Metric</footprint>
+      <datasheet>https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</datasheet>
+      <fields>
+        <field name="Comment">Automotive</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">RMCF1206FT330RCT-ND</field>
+        <field name="MFG">Stackpole Electronics Inc</field>
+        <field name="MFG PN">RMCF1206FT330R</field>
+        <field name="Name">330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive</field>
+        <field name="Power">0.25</field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:R_US</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Temp Co">100</field>
+        <field name="Tolerance">1</field>
+        <field name="Voltage">200v</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Resistors - Single - SMD/330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive" description="Resistor, US symbol"/>
+      <property name="Name" value="330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive"/>
+      <property name="Tolerance" value="1"/>
+      <property name="Size" value="1206"/>
+      <property name="Power" value="0.25"/>
+      <property name="Voltage" value="200v"/>
+      <property name="Technology" value="Thick Film"/>
+      <property name="Temp Co" value="100"/>
+      <property name="MFG" value="Stackpole Electronics Inc"/>
+      <property name="MFG PN" value="RMCF1206FT330R"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="RMCF1206FT330RCT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:R_US"/>
+      <property name="Comment" value="Automotive"/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>2d0b3869-2c20-461d-b5eb-82722d9146c8</tstamps>
+    </comp>
+    <comp ref="RN3">
+      <value>1k</value>
+      <footprint>Resistors_SMD_Networks:BO_CAY16</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">CAY16-1001F4LFCT-ND</field>
+        <field name="MFG">Bourns Inc.</field>
+        <field name="MFG PN">CAY16-1001F4LF</field>
+        <field name="Matching Ratio"> </field>
+        <field name="Max Voltage">50</field>
+        <field name="Name">1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  </field>
+        <field name="Number of elements">4</field>
+        <field name="Power / element (mW)">62.5</field>
+        <field name="Ratio Drift (PPM/°C)"> </field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:R_Network04_Iso</field>
+        <field name="TCR (PPM/°C)">200</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Tolerance (%)">1</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Resistors - Isolated Array/1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  " description="4 resistor network"/>
+      <property name="Name" value="1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  "/>
+      <property name="Tolerance (%)" value="1"/>
+      <property name="Matching Ratio" value=" "/>
+      <property name="TCR (PPM/°C)" value="200"/>
+      <property name="Ratio Drift (PPM/°C)" value=" "/>
+      <property name="Number of elements" value="4"/>
+      <property name="Power / element (mW)" value="62.5"/>
+      <property name="Max Voltage" value="50"/>
+      <property name="Size" value="1206"/>
+      <property name="Technology" value="Thick Film"/>
+      <property name="MFG" value="Bourns Inc."/>
+      <property name="MFG PN" value="CAY16-1001F4LF"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="CAY16-1001F4LFCT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:R_Network04_Iso"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="4 resistor network"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>bf5b4550-15a3-48c6-8223-9b134243b452 8aa344b0-5960-4af0-adfd-8a737f7f08ec 819ab8ce-e506-4abb-9287-3997437db651 64f359d4-1093-4471-b393-1c5ed2c28839</tstamps>
+    </comp>
+    <comp ref="RN4">
+      <value>1k</value>
+      <footprint>Resistors_SMD_Networks:BO_CAY16</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">CAY16-1001F4LFCT-ND</field>
+        <field name="MFG">Bourns Inc.</field>
+        <field name="MFG PN">CAY16-1001F4LF</field>
+        <field name="Matching Ratio"> </field>
+        <field name="Max Voltage">50</field>
+        <field name="Name">1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  </field>
+        <field name="Number of elements">4</field>
+        <field name="Power / element (mW)">62.5</field>
+        <field name="Ratio Drift (PPM/°C)"> </field>
+        <field name="Size">1206</field>
+        <field name="Symbol">0Dan_Passives:R_Network04_Iso</field>
+        <field name="TCR (PPM/°C)">200</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Tolerance (%)">1</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Resistors - Isolated Array/1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  " description="4 resistor network"/>
+      <property name="Name" value="1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  "/>
+      <property name="Tolerance (%)" value="1"/>
+      <property name="Matching Ratio" value=" "/>
+      <property name="TCR (PPM/°C)" value="200"/>
+      <property name="Ratio Drift (PPM/°C)" value=" "/>
+      <property name="Number of elements" value="4"/>
+      <property name="Power / element (mW)" value="62.5"/>
+      <property name="Max Voltage" value="50"/>
+      <property name="Size" value="1206"/>
+      <property name="Technology" value="Thick Film"/>
+      <property name="MFG" value="Bourns Inc."/>
+      <property name="MFG PN" value="CAY16-1001F4LF"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="CAY16-1001F4LFCT-ND"/>
+      <property name="Symbol" value="0Dan_Passives:R_Network04_Iso"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_description" value="4 resistor network"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>e82b190f-e92d-4630-93c1-5a5e1d4fb27e a23f64e7-c565-4c22-ae2b-0dca02dfe716 aecc5c4d-f8c7-4d14-9aad-f05f916e8468 2b2e6272-67ef-4b64-a6d1-d98fe4034792</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>Push 30V 0.1A</value>
+      <footprint>Switches_Push:SW_TL2230EEF100</footprint>
+      <datasheet>https://configured-product-images.s3.amazonaws.com/Datasheets/TL2230.pdf</datasheet>
+      <fields>
+        <field name="Comment">Latching</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">E-Switch</field>
+        <field name="Imax (DC)">0.1A</field>
+        <field name="MFG">E-Switch</field>
+        <field name="MFG PN">TL2230EEF100</field>
+        <field name="Name">DPDT Push 30V 0.1A</field>
+        <field name="Symbol">0Dan_Switches:Push_DPDT_Latching</field>
+        <field name="Type">DPDT</field>
+        <field name="Vmax (DC)">30V</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Switches - Push/DPDT Push 30V 0.1A" description=""/>
+      <property name="Name" value="DPDT Push 30V 0.1A"/>
+      <property name="Type" value="DPDT"/>
+      <property name="Vmax (DC)" value="30V"/>
+      <property name="Imax (DC)" value="0.1A"/>
+      <property name="MFG" value="E-Switch"/>
+      <property name="MFG PN" value="TL2230EEF100"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="E-Switch"/>
+      <property name="Symbol" value="0Dan_Switches:Push_DPDT_Latching"/>
+      <property name="Comment" value="Latching"/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>6a71e47f-48d4-488e-a6ae-c77c7d405bd3</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>Push 30V 0.1A</value>
+      <footprint>Switches_Push:SW_TL2230EEF100</footprint>
+      <datasheet>https://configured-product-images.s3.amazonaws.com/Datasheets/TL2230.pdf</datasheet>
+      <fields>
+        <field name="Comment">Latching</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">E-Switch</field>
+        <field name="Imax (DC)">0.1A</field>
+        <field name="MFG">E-Switch</field>
+        <field name="MFG PN">TL2230EEF100</field>
+        <field name="Name">DPDT Push 30V 0.1A</field>
+        <field name="Symbol">0Dan_Switches:Push_DPDT_Latching</field>
+        <field name="Type">DPDT</field>
+        <field name="Vmax (DC)">30V</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Switches - Push/DPDT Push 30V 0.1A" description=""/>
+      <property name="Name" value="DPDT Push 30V 0.1A"/>
+      <property name="Type" value="DPDT"/>
+      <property name="Vmax (DC)" value="30V"/>
+      <property name="Imax (DC)" value="0.1A"/>
+      <property name="MFG" value="E-Switch"/>
+      <property name="MFG PN" value="TL2230EEF100"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="E-Switch"/>
+      <property name="Symbol" value="0Dan_Switches:Push_DPDT_Latching"/>
+      <property name="Comment" value="Latching"/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>68537834-e7d4-4719-b6e9-1c44cf48aa86</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>x399 Vref Socket</value>
+      <footprint>Connectors_ICskt:x399_Socket</footprint>
+      <datasheet>https://drawings-pdf.s3.amazonaws.com/10497.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">S5750-02-ND</field>
+        <field name="For">x399 Vref</field>
+        <field name="MFG">Sullins Connector Solutions</field>
+        <field name="MFG PN">NPPN022AFCN-RC</field>
+        <field name="Name">x399 Vref Socket</field>
+        <field name="Symbol">0Dan_VRefs-BZener:LM399</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Connectors - IC socket/x399 Vref Socket" description=""/>
+      <property name="Name" value="x399 Vref Socket"/>
+      <property name="For" value="x399 Vref"/>
+      <property name="MFG" value="Sullins Connector Solutions"/>
+      <property name="MFG PN" value="NPPN022AFCN-RC"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="S5750-02-ND"/>
+      <property name="Symbol" value="0Dan_VRefs-BZener:LM399"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>a04fc68f-fb64-44c3-849a-15c43cdf604e</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>x399 Vref Socket</value>
+      <footprint>Connectors_ICskt:x399_Socket</footprint>
+      <datasheet>https://drawings-pdf.s3.amazonaws.com/10497.pdf</datasheet>
+      <fields>
+        <field name="Comment"> </field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">S5750-02-ND</field>
+        <field name="For">x399 Vref</field>
+        <field name="MFG">Sullins Connector Solutions</field>
+        <field name="MFG PN">NPPN022AFCN-RC</field>
+        <field name="Name">x399 Vref Socket</field>
+        <field name="Symbol">0Dan_VRefs-BZener:LM399</field>
+      </fields>
+      <libsource lib="Danakil_database" part="Connectors - IC socket/x399 Vref Socket" description=""/>
+      <property name="Name" value="x399 Vref Socket"/>
+      <property name="For" value="x399 Vref"/>
+      <property name="MFG" value="Sullins Connector Solutions"/>
+      <property name="MFG PN" value="NPPN022AFCN-RC"/>
+      <property name="Distributor" value="Digikey"/>
+      <property name="Distributor PN" value="S5750-02-ND"/>
+      <property name="Symbol" value="0Dan_VRefs-BZener:LM399"/>
+      <property name="Comment" value=" "/>
+      <property name="Sheetname" value="Vref 2"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/Vref 2/" tstamps="/5af13807-9495-424b-bc53-935d164ca9f2/"/>
+      <tstamps>e218bd37-389f-42cd-99aa-bba682638048</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Danakil_database" part="Capacitors - Unpolarized/100nF 50V 1206 X7R SMD MLCC  ">
+      <description>Unpolarized capacitor</description>
+      <docs>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1256/CL31B104KBCNNNC_Spec.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">100n</field>
+        <field name="Footprint">Capacitors_SMD:C_1206_3216Metric</field>
+        <field name="Datasheet">https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1256/CL31B104KBCNNNC_Spec.pdf</field>
+        <field name="Name">100nF 50V 1206 X7R SMD MLCC  </field>
+        <field name="Size">1206</field>
+        <field name="Voltage">50</field>
+        <field name="Temp Co">X7R</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Technology">MLCC</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL31B104KBCNNNC</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-1017-1-ND</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Capacitors - Unpolarized/10uF 25V 1206 X5R SMD MLCC  ">
+      <description>Unpolarized capacitor</description>
+      <docs>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL31A106KAHNNNE_SS.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">10u</field>
+        <field name="Footprint">Capacitors_SMD:C_1206_3216Metric</field>
+        <field name="Datasheet">https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL31A106KAHNNNE_SS.pdf</field>
+        <field name="Name">10uF 25V 1206 X5R SMD MLCC  </field>
+        <field name="Size">1206</field>
+        <field name="Voltage">25</field>
+        <field name="Temp Co">X5R</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Technology">MLCC</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL31A106KAHNNNE</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-1075-1-ND</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Capacitors - Unpolarized/1uF 50V 0805 Y5V SMD MLCC  ">
+      <description>Unpolarized capacitor</description>
+      <docs>https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL05Y105KP6VPN</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">1u</field>
+        <field name="Footprint">Capacitors_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL05Y105KP6VPN</field>
+        <field name="Name">1uF 50V 0805 Y5V SMD MLCC  </field>
+        <field name="Size">0805</field>
+        <field name="Voltage">50</field>
+        <field name="Temp Co">Y5V</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Technology">MLCC</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL21F105ZBFNNNG</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-6495-1-ND</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Capacitors - Unpolarized/4.7uF 25V 1206 X7R SMD MLCC  ">
+      <description>Unpolarized capacitor</description>
+      <docs>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL31B475KAHNNNE_Spec.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">4.7u</field>
+        <field name="Footprint">Capacitors_SMD:C_1206_3216Metric</field>
+        <field name="Datasheet">https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL31B475KAHNNNE_Spec.pdf</field>
+        <field name="Name">4.7uF 25V 1206 X7R SMD MLCC  </field>
+        <field name="Size">1206</field>
+        <field name="Voltage">25</field>
+        <field name="Temp Co">X7R</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Technology">MLCC</field>
+        <field name="MFG">Samsung Electro-Mechanics</field>
+        <field name="MFG PN">CL31B475KAHNNNE</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1276-1055-1-ND</field>
+        <field name="Symbol">0Dan_Passives:C</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Connectors - Barrel Jack/2.5mmID 5.5mmOD  ">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>https://www.sameskydevices.com/product/resource/pj-002b.pdf</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">2.5mmID 5.5mmOD</field>
+        <field name="Footprint">Connectors:CUI_PJ-002B</field>
+        <field name="Datasheet">https://www.sameskydevices.com/product/resource/pj-002b.pdf</field>
+        <field name="Name">2.5mmID 5.5mmOD  </field>
+        <field name="ID">2.5mm</field>
+        <field name="OD">5.5mm</field>
+        <field name="MFG">Same Sky (Formerly CUI Devices)</field>
+        <field name="MFG PN">PJ-002B</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">CP-002B-ND</field>
+        <field name="Symbol">0Dan_Connectors:Barrel_Jack_Switch</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Connectors - IC socket/x399 Vref Socket">
+      <docs>https://drawings-pdf.s3.amazonaws.com/10497.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">x399 Vref Socket</field>
+        <field name="Footprint">Connectors_ICskt:x399_Socket</field>
+        <field name="Datasheet">https://drawings-pdf.s3.amazonaws.com/10497.pdf</field>
+        <field name="Name">x399 Vref Socket</field>
+        <field name="For">x399 Vref</field>
+        <field name="MFG">Sullins Connector Solutions</field>
+        <field name="MFG PN">NPPN022AFCN-RC</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">S5750-02-ND</field>
+        <field name="Symbol">0Dan_VRefs-BZener:LM399</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="Z+" type="input"/>
+        <pin num="2" name="Z-" type="input"/>
+        <pin num="3" name="H-" type="input"/>
+        <pin num="4" name="H+" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Discreet - Diodes - Schottky/Schottky 40V 0.12A SMD Dual CC">
+      <docs>https://assets.nexperia.com/documents/data-sheet/BAS40-05.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Schottky 40V 0.12A SMD</field>
+        <field name="Footprint">Discreet_SMD:SOT-23-3_1</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BAS40-05.pdf</field>
+        <field name="Name">Schottky 40V 0.12A SMD Dual CC</field>
+        <field name="Vr (max)">40V</field>
+        <field name="Vf@If (max)">1V@40mA</field>
+        <field name="I (max)">0.12A</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="MFG">Nexperia USA Inc.</field>
+        <field name="MFG PN">BAS40-05,215</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1727-4235-1-ND</field>
+        <field name="Symbol">0Dan_Discreet:Diode_Schottky_BAS40-05</field>
+        <field name="Comment">Dual CC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Discreet - Diodes - Schottky/Schottky 40V 2A SMD  ">
+      <docs>https://www.panjit.com.tw/upload/datasheet/SS2040LL.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Schottky 40V 2A SMD</field>
+        <field name="Footprint">Diodes:D_SOD-123F</field>
+        <field name="Datasheet">https://www.panjit.com.tw/upload/datasheet/SS2040LL.pdf</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Name">Schottky 40V 2A SMD  </field>
+        <field name="Vr (max)">40V</field>
+        <field name="Vf@If (max)">0.45V@2A</field>
+        <field name="I (max)">2A</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="MFG">Panjit International Inc.</field>
+        <field name="MFG PN">SS2040LL_R1_00001</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">3757-SS2040LL_R1_00001CT-ND</field>
+        <field name="Symbol">0Dan_Discreet:Diode_Schottky</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Discreet - Transistors - BJT - NPN/2222A 40V-Vce 0.6A-Ic 0.35W 100-Bmin SMD  ">
+      <description>Bipolar transistor symbol for simulation only, substrate tied to the emitter</description>
+      <docs>https://www.mccsemi.com/pdf/Products/MMBT2222A(SOT-23).pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2222A</field>
+        <field name="Footprint">Discreet_SMD:SOT-23-3</field>
+        <field name="Datasheet">https://www.mccsemi.com/pdf/Products/MMBT2222A(SOT-23).pdf</field>
+        <field name="Sim.Device">NPN</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+        <field name="Name">2222A 40V-Vce 0.6A-Ic 0.35W 100-Bmin SMD  </field>
+        <field name="Vce">40V</field>
+        <field name="Ic">0.6A</field>
+        <field name="Pmax">0.35W</field>
+        <field name="Gain">100</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="MFG">MCC (Micro Commercial Components)</field>
+        <field name="MFG PN">MMBT2222A-TP</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">MMBT2222ATPMSCT-ND</field>
+        <field name="Symbol">0Dan_Discreet:NPN</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="open_collector"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="open_emitter"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="ICs - Analog - OP Amp/LM324">
+      <description>Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14</description>
+      <docs>https://www.ti.com/lit/ds/symlink/lm224.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&amp;ts=1741206371483</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM324</field>
+        <field name="Footprint">ICs:SOIC-14_3.9x8.7mm_P1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/lm224.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&amp;ts=1741206371483</field>
+        <field name="Name">LM324</field>
+        <field name="MFG">Texas Instruments</field>
+        <field name="MFG PN">LM324ADR</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">296-9540-1-ND</field>
+        <field name="Symbol">0Dan_OpAmps:LM324</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="passive"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="passive"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="ICs - Power - Linear Regulation/78L15 Fixed 0.1A 1.7v@0.04A 35VinMax SMD  ">
+      <docs>https://www.st.com/resource/en/datasheet/l78l.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">78L15</field>
+        <field name="Footprint">ICs:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/l78l.pdf</field>
+        <field name="Name">78L15 Fixed 0.1A 1.7v@0.04A 35VinMax SMD  </field>
+        <field name="Type">Fixed</field>
+        <field name="Vout">15</field>
+        <field name="Iout Max">0.1</field>
+        <field name="Vdropout@I">1.7v@0.04A</field>
+        <field name="VinMax">35</field>
+        <field name="Min ESR(mΩ)">0</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="MFG">STMicroelectronics</field>
+        <field name="MFG PN">L78L15ACD13TR</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">497-7278-1-ND</field>
+        <field name="Symbol">0Dan_Linear_Regulation:78xx_1</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vin" type="input"/>
+        <pin num="2" name="Gnd" type="input"/>
+        <pin num="3" name="Gnd" type="input"/>
+        <pin num="6" name="Gnd" type="input"/>
+        <pin num="7" name="Gnd" type="input"/>
+        <pin num="8" name="Vout" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Inductors - Ferrite Bead/600Ω@100MHz 2A 0.1ΩDCR">
+      <docs>https://fair-rite.com/product/chip-beads-2508056017y2/</docs>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">600Ω@100MHz 0.1ΩDCR</field>
+        <field name="Footprint">Inductors_SMD:L_0805_2012Metric</field>
+        <field name="Datasheet">https://fair-rite.com/product/chip-beads-2508056017y2/</field>
+        <field name="Name">600Ω@100MHz 2A 0.1ΩDCR</field>
+        <field name="Z@Freq">600Ω@100MHz</field>
+        <field name="Imax">2A</field>
+        <field name="DCR (max)">0.1Ω</field>
+        <field name="MFG">Fair-Rite Products Corp.</field>
+        <field name="MFG PN">2508056017Y2</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1934-1487-1-ND</field>
+        <field name="Symbol">0Dan_Passives:FB</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Inductors/12uH 2.2A 58mΩ 20% NonStd SMD  ">
+      <description>Inductor</description>
+      <docs>https://abracon.com/Magnetics/power/ASPI-6045S.pdf</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">12u</field>
+        <field name="Footprint">Inductors_SMD:ASPI-6045S-120M-T</field>
+        <field name="Datasheet">https://abracon.com/Magnetics/power/ASPI-6045S.pdf</field>
+        <field name="Name">12uH 2.2A 58mΩ 20% NonStd SMD  </field>
+        <field name="Size">NonStd</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="Tolerance">20</field>
+        <field name="DCR">58m</field>
+        <field name="MFG">Abracon LLC</field>
+        <field name="MFG PN">ASPI-6045S-120M-T</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">535-ASPI-6045S-120M-TCT-ND</field>
+        <field name="Symbol">0Dan_Passives:L</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="LEDs - Standard - Indicator - Through Hole/Green 3mm 560nm 2.2v 20mA  ">
+      <description>Light emitting diode</description>
+      <docs>https://www.we-online.com/components/products/datasheet/151031VS06000.pdf</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Green 3mm</field>
+        <field name="Footprint">Discreet_TH:LED_3mm_wurth</field>
+        <field name="Datasheet">https://www.we-online.com/components/products/datasheet/151031VS06000.pdf</field>
+        <field name="Name">Green 3mm 560nm 2.2v 20mA  </field>
+        <field name="Color">Green</field>
+        <field name="Wavelength">560</field>
+        <field name="Vf">2.2</field>
+        <field name="If (mA)">20</field>
+        <field name="Size">3mm</field>
+        <field name="MFG">Würth Elektronik</field>
+        <field name="MFG PN">151031VS06000</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">732-5008-ND</field>
+        <field name="Symbol">0Dan_Discreet:LED</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Mechanical - Feet/9.5mm_dia 5.4mm_height Black  ">
+      <docs>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/699/Bumper_Brochure.pdf</docs>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">9.5mm Black</field>
+        <field name="Footprint">Feet:BS22BL05X06RP</field>
+        <field name="Datasheet">https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/699/Bumper_Brochure.pdf</field>
+        <field name="Name">9.5mm_dia 5.4mm_height Black  </field>
+        <field name="Diameter">9.5mm</field>
+        <field name="Height">5.4mm</field>
+        <field name="Color">Black</field>
+        <field name="MFG">Bumper Specialties Inc.</field>
+        <field name="MFG PN">BS22BL05X06RP</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">2042-1050-ND</field>
+        <field name="Symbol">0Dan_Mech_Feet:Foot</field>
+        <field name="Comment"> </field>
+      </fields>
+    </libpart>
+    <libpart lib="Danakil_database" part="Mechanical - Screws/M3x0.5x6 Combination Drive Binding Head Brass Green">
+      <description>M3x0.5 - 6mm Socket Head Cap Screw</description>
+      <docs>https://www.keyelco.com/product-pdf.cfm?p=1928</docs>
+      <fields>
+        <field name="Reference">Screw </field>
+        <field name="Value">M3x0.5x6 Binding Head Green</field>
+        <field name="Footprint">Screws:9191</field>
+        <field name="Datasheet">https://www.keyelco.com/product-pdf.cfm?p=1928</field>
+        <field name="Name">M3x0.5x6 Combination Drive Binding Head Brass Green</field>
+        <field name="Size">M3x0.5x6</field>
+        <field name="Drive Type">Combination</field>
+        <field name="Head Type">Binding Head</field>
+        <field name="Material">Brass</field>
+        <field name="MFG">Keystone Electronics</field>
+        <field name="MFG PN">9191-6</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">36-9191-6-ND</field>
+        <field name="Symbol">0Dan_Mech_Screws:M3-6mm_Pan_Green</field>
+        <field name="Schematic Only">FALSE</field>
+        <field name="Has Hole">FALSE</field>
+        <field name="Comment">Green</field>
+      </fields>
+    </libpart>
+    <libpart lib="Danakil_database" part="Mechanical - Standoffs - SMD/M3x0.5 0.3mm_tall Elect_Conn">
+      <docs>https://www.keyelco.com/product-pdf.cfm?p=14826</docs>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">M3x0.5 0.3mm_tall</field>
+        <field name="Footprint">Mechanical_Standoffs_SMD:24939_ElecConn</field>
+        <field name="Datasheet">https://www.keyelco.com/product-pdf.cfm?p=14826</field>
+        <field name="Name">M3x0.5 0.3mm_tall Elect_Conn</field>
+        <field name="Thread Size">M3x0.5</field>
+        <field name="Height">0.3mm</field>
+        <field name="MFG">Keystone Electronics</field>
+        <field name="MFG PN">24939</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">36-24939CT-ND</field>
+        <field name="Symbol">0Dan_Mech_Standoffs:SMD_ElecConn</field>
+        <field name="Comment">Elect_Conn</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="PSUs - PCB Mount - DC-DC - Non-Isolated/Buck 7v-28v to 5v0.5A">
+      <docs>https://recom-power.com/pdf/Innoline/R-78E-0.5.pdf</docs>
+      <fields>
+        <field name="Reference">DC-DC</field>
+        <field name="Value">5v 0.5A Buck</field>
+        <field name="Footprint">DCDC_NonIso:R-78E-0.5</field>
+        <field name="Datasheet">https://recom-power.com/pdf/Innoline/R-78E-0.5.pdf</field>
+        <field name="Name">Buck 7v-28v to 5v0.5A</field>
+        <field name="Type">Buck</field>
+        <field name="Vout">5v</field>
+        <field name="Iout">0.5A</field>
+        <field name="Vin (min)">7v</field>
+        <field name="Vin (max)">28v</field>
+        <field name="MFG">Recom Power</field>
+        <field name="MFG PN">R-78E5.0-0.5</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">945-1648-5-ND</field>
+        <field name="Symbol">0Dan_PSUs:78xx Replacement</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vin" type="input"/>
+        <pin num="2" name="Gnd" type="input"/>
+        <pin num="3" name="Vout" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="PSUs - Wall Wart/18V 1A 18W Wall Wart  ">
+      <docs>https://globtek.secure.force.com/spec/?id=01t0c0000097CKB</docs>
+      <fields>
+        <field name="Reference">AC-DC</field>
+        <field name="Value">18V 1A 18W</field>
+        <field name="Footprint">Connectors:CUI_PJ-002B</field>
+        <field name="Datasheet">https://globtek.secure.force.com/spec/?id=01t0c0000097CKB</field>
+        <field name="Name">18V 1A 18W Wall Wart  </field>
+        <field name="Voltage (v)">18</field>
+        <field name="Current (A)">1</field>
+        <field name="Wattage (W)">18</field>
+        <field name="Mating Connector PN">PJ-002B</field>
+        <field name="MFG">GlobTek, Inc.</field>
+        <field name="MFG PN">WR9HH1000LCP-F(R6B)</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">1939-2007-ND</field>
+        <field name="Symbol">0Dan_PSUs_WallWarts:WR9HH1000LCP-F(R6B)</field>
+        <field name="Comment"> </field>
+      </fields>
+    </libpart>
+    <libpart lib="Danakil_database" part="Protection - Fuses/125VAC/63VDC 1A F SMD  ">
+      <docs>https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-c1f-series.pdf</docs>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">125VAC/63VDC 1A F</field>
+        <field name="Footprint">Protection_Fuses:Fuse_1206</field>
+        <field name="Datasheet">https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-c1f-series.pdf</field>
+        <field name="Name">125VAC/63VDC 1A F SMD  </field>
+        <field name="Current Rating (A)">1</field>
+        <field name="Response Time">F</field>
+        <field name="Breaking Capacity (A AC)">100</field>
+        <field name="Breaking Capacity (A DC)">50</field>
+        <field name="Melting I2T">0.012</field>
+        <field name="Mounting Type">SMD</field>
+        <field name="MFG">Bel Fuse Inc.</field>
+        <field name="MFG PN">C1F 1</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">5923-C1F1CT-ND</field>
+        <field name="Symbol">0Dan_Protection:Fuse</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Protection - MOVs/14VAC/18VDC 120A  J SMD  ">
+      <description>Voltage dependent resistor, US symbol</description>
+      <docs>https://www.bourns.com/docs/Product-Datasheets/BVR0805.pdf</docs>
+      <footprints>
+        <fp>RV_*</fp>
+        <fp>Varistor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">14VAC/18VDC</field>
+        <field name="Footprint">Protection_MOV:MOV_0805</field>
+        <field name="Datasheet">https://www.bourns.com/docs/Product-Datasheets/BVR0805.pdf</field>
+        <field name="Name">14VAC/18VDC 120A  J SMD  </field>
+        <field name="Max ACV">14</field>
+        <field name="Max DCV">18</field>
+        <field name="Varistor Voltage (min)">22</field>
+        <field name="Varistor Voltage (max)">28</field>
+        <field name="Surge Current (A)">120</field>
+        <field name="Energy (J)"> </field>
+        <field name="Mounting Type">SMD</field>
+        <field name="MFG">Bourns Inc.</field>
+        <field name="MFG PN">BVR0805-14PFR</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">118-BVR0805-14PFRCT-ND</field>
+        <field name="Symbol">0Dan_Protection:MOV</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Resistors - Isolated Array/1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  ">
+      <description>4 resistor network</description>
+      <docs>https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf</docs>
+      <footprints>
+        <fp>R?Array?SIP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RN</field>
+        <field name="Value">1k</field>
+        <field name="Footprint">Resistors_SMD_Networks:BO_CAY16</field>
+        <field name="Datasheet">https://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf</field>
+        <field name="Name">1kΩ 1% 4-Element 1206 62.5mW 50V Thick Film 200PPM/°C  </field>
+        <field name="Tolerance (%)">1</field>
+        <field name="Matching Ratio"> </field>
+        <field name="TCR (PPM/°C)">200</field>
+        <field name="Ratio Drift (PPM/°C)"> </field>
+        <field name="Number of elements">4</field>
+        <field name="Power / element (mW)">62.5</field>
+        <field name="Max Voltage">50</field>
+        <field name="Size">1206</field>
+        <field name="Technology">Thick Film</field>
+        <field name="MFG">Bourns Inc.</field>
+        <field name="MFG PN">CAY16-1001F4LF</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">CAY16-1001F4LFCT-ND</field>
+        <field name="Symbol">0Dan_Passives:R_Network04_Iso</field>
+        <field name="Comment"> </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Resistors - Single - SMD/1kΩ 1% 1206 0.25w Thick Film 200ppm/°C Automotive">
+      <description>Resistor, US symbol</description>
+      <docs>https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">1k</field>
+        <field name="Footprint">Resistors_SMD:R_1206_3216Metric</field>
+        <field name="Datasheet">https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</field>
+        <field name="Name">1kΩ 1% 1206 0.25w Thick Film 200ppm/°C Automotive</field>
+        <field name="Tolerance">1</field>
+        <field name="Size">1206</field>
+        <field name="Power">0.25</field>
+        <field name="Voltage">200v</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Temp Co">200</field>
+        <field name="MFG">Stackpole Electronics Inc</field>
+        <field name="MFG PN">RMCF1206FT1K00</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">RMCF1206FT1K00CT-ND</field>
+        <field name="Symbol">0Dan_Passives:R_US</field>
+        <field name="Comment">Automotive</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Resistors - Single - SMD/330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive">
+      <description>Resistor, US symbol</description>
+      <docs>https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">330</field>
+        <field name="Footprint">Resistors_SMD:R_1206_3216Metric</field>
+        <field name="Datasheet">https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</field>
+        <field name="Name">330Ω 1% 1206 0.25w Thick Film 100ppm/°C Automotive</field>
+        <field name="Tolerance">1</field>
+        <field name="Size">1206</field>
+        <field name="Power">0.25</field>
+        <field name="Voltage">200v</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Temp Co">100</field>
+        <field name="MFG">Stackpole Electronics Inc</field>
+        <field name="MFG PN">RMCF1206FT330R</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">RMCF1206FT330RCT-ND</field>
+        <field name="Symbol">0Dan_Passives:R_US</field>
+        <field name="Comment">Automotive</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Resistors - Single - SMD/47kΩ 1% 1206 0.25w Thick Film 100ppm/°C Automotive">
+      <description>Resistor, US symbol</description>
+      <docs>https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">47k</field>
+        <field name="Footprint">Resistors_SMD:R_1206_3216Metric</field>
+        <field name="Datasheet">https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf</field>
+        <field name="Name">47kΩ 1% 1206 0.25w Thick Film 100ppm/°C Automotive</field>
+        <field name="Tolerance">1</field>
+        <field name="Size">1206</field>
+        <field name="Power">0.25</field>
+        <field name="Voltage">200v</field>
+        <field name="Technology">Thick Film</field>
+        <field name="Temp Co">100</field>
+        <field name="MFG">Stackpole Electronics Inc</field>
+        <field name="MFG PN">RMCF1206FT47K0</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">RMCF1206FT47K0CT-ND</field>
+        <field name="Symbol">0Dan_Passives:R_US</field>
+        <field name="Comment">Automotive</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Danakil_database" part="Switches - Push/DPDT Push 30V 0.1A">
+      <docs>https://configured-product-images.s3.amazonaws.com/Datasheets/TL2230.pdf</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Push 30V 0.1A</field>
+        <field name="Footprint">Switches_Push:SW_TL2230EEF100</field>
+        <field name="Datasheet">https://configured-product-images.s3.amazonaws.com/Datasheets/TL2230.pdf</field>
+        <field name="Name">DPDT Push 30V 0.1A</field>
+        <field name="Type">DPDT</field>
+        <field name="Vmax (DC)">30V</field>
+        <field name="Imax (DC)">0.1A</field>
+        <field name="MFG">E-Switch</field>
+        <field name="MFG PN">TL2230EEF100</field>
+        <field name="Distributor">Digikey</field>
+        <field name="Distributor PN">E-Switch</field>
+        <field name="Symbol">0Dan_Switches:Push_DPDT_Latching</field>
+        <field name="Comment">Latching</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Danakil_database">
+      <uri>D:/Danakil_KiCad_database.kicad_dbl</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5LED">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="SW5" pin="2" pintype="passive"/>
+      <node ref="SW5" pin="5" pintype="passive"/>
+    </net>
+    <net code="2" name="+5S">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="+18">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="input"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="Vout" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="Z+" pintype="input"/>
+      <node ref="U4" pin="1" pinfunction="Z+" pintype="input"/>
+      <node ref="U5" pin="1" pinfunction="Z+" pintype="input"/>
+      <node ref="U6" pin="1" pinfunction="Z+" pintype="input"/>
+    </net>
+    <net code="4" name="/Power/+5">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="DC-DC1" pin="3" pinfunction="Vout" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="SW5" pin="1" pintype="passive"/>
+      <node ref="SW5" pin="4" pintype="passive"/>
+    </net>
+    <net code="5" name="/Power/+15">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V+" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="Vin" pintype="input"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="DC-DC1" pin="2" pinfunction="Gnd" pintype="input"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="Q1" pin="3" pinfunction="E" pintype="open_emitter"/>
+      <node ref="RN1" pin="8" pintype="passive"/>
+      <node ref="RN2" pin="8" pintype="passive"/>
+      <node ref="RN3" pin="8" pintype="passive"/>
+      <node ref="RN4" pin="8" pintype="passive"/>
+      <node ref="RV1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="3" pintype="passive"/>
+      <node ref="SW1" pin="5" pintype="passive"/>
+      <node ref="SW1" pin="6" pintype="passive"/>
+      <node ref="SW2" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="3" pintype="passive"/>
+      <node ref="SW2" pin="5" pintype="passive"/>
+      <node ref="SW2" pin="6" pintype="passive"/>
+      <node ref="SW3" pin="2" pintype="passive"/>
+      <node ref="SW3" pin="3" pintype="passive"/>
+      <node ref="SW3" pin="5" pintype="passive"/>
+      <node ref="SW3" pin="6" pintype="passive"/>
+      <node ref="SW4" pin="2" pintype="passive"/>
+      <node ref="SW4" pin="3" pintype="passive"/>
+      <node ref="SW4" pin="5" pintype="passive"/>
+      <node ref="SW4" pin="6" pintype="passive"/>
+      <node ref="SW5" pin="3" pintype="passive"/>
+      <node ref="SW5" pin="6" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="V-" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="Gnd" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="Gnd" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="Gnd" pintype="input"/>
+      <node ref="U2" pin="7" pinfunction="Gnd" pintype="input"/>
+      <node ref="U3" pin="2" pinfunction="Z-" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="H-" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="Z-" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="H-" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="Z-" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="H-" pintype="input"/>
+      <node ref="U6" pin="2" pinfunction="Z-" pintype="input"/>
+      <node ref="U6" pin="3" pinfunction="H-" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="input"/>
+      <node ref="RV1" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="10" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D7-A-Pad1)">
+      <node ref="D7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(D7-K)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D7" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="3" pintype="passive"/>
+      <node ref="RN1" pin="4" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D8-A-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="7" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(D8-K)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D8" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="RN2" pin="3" pintype="passive"/>
+      <node ref="RN2" pin="4" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D9-A-Pad1)">
+      <node ref="D9" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="8" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(D9-K)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="D9" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="RN3" pin="3" pintype="passive"/>
+      <node ref="RN3" pin="4" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D10-A-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="14" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(D10-K)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="D10" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="RN4" pin="3" pintype="passive"/>
+      <node ref="RN4" pin="4" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(DC-DC1-Vin)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="DC-DC1" pin="1" pinfunction="Vin" pintype="input"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Q1-B)">
+      <node ref="Q1" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(RN1-Pad1)">
+      <node ref="RN1" pin="1" pintype="passive"/>
+      <node ref="RN1" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(RN2-Pad1)">
+      <node ref="RN2" pin="1" pintype="passive"/>
+      <node ref="RN2" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(RN3-Pad1)">
+      <node ref="RN3" pin="1" pintype="passive"/>
+      <node ref="RN3" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(RN4-Pad1)">
+      <node ref="RN4" pin="1" pintype="passive"/>
+      <node ref="RN4" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(U1A-+)">
+      <node ref="RN1" pin="5" pintype="passive"/>
+      <node ref="SW1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="H+" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(U1A--)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="RN1" pin="6" pintype="passive"/>
+      <node ref="RN1" pin="7" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(U1B-+)">
+      <node ref="RN2" pin="5" pintype="passive"/>
+      <node ref="SW2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="H+" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(U1B--)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="RN2" pin="6" pintype="passive"/>
+      <node ref="RN2" pin="7" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(U1C-+)">
+      <node ref="RN3" pin="5" pintype="passive"/>
+      <node ref="SW3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="H+" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(U1C--)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="RN3" pin="6" pintype="passive"/>
+      <node ref="RN3" pin="7" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="35" name="Net-(U1D-+)">
+      <node ref="RN4" pin="5" pintype="passive"/>
+      <node ref="SW4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="+" pintype="input"/>
+      <node ref="U6" pin="4" pinfunction="H+" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(U1D--)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="RN4" pin="6" pintype="passive"/>
+      <node ref="RN4" pin="7" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="37" name="Safe1">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW1" pin="4" pintype="passive"/>
+    </net>
+    <net code="38" name="Safe2">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW2" pin="4" pintype="passive"/>
+    </net>
+    <net code="39" name="Safe3">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW3" pin="4" pintype="passive"/>
+    </net>
+    <net code="40" name="Safe4">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW4" pin="4" pintype="passive"/>
+    </net>
+  </nets>
+</export>
