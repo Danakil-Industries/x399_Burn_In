@@ -1,4 +1,4 @@
-43738341788467033
+43745362493684654
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -71057,6 +71057,20 @@ ICs
 26
 21
 ICs
+QFN-32_ADS131M0x
+
+
+0
+0
+0
+ICs
+QFP-32_5x5mm_P0.5mm_ADS131M0x
+LQFP, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT401-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+32
+32
+ICs
 SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm
 SOIC, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf#page=29), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOIC SO
@@ -71112,6 +71126,20 @@ TQFP QFP
 0
 48
 48
+ICs
+TSSOP-20_ADS131M0x
+TSSOP, 20 Pin (JEDEC MO-153 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+20
+20
+ICs
+WQFN-20_ADS131M0x
+
+
+0
+22
+21
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
