@@ -506,7 +506,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "E:/Github/x399 Burn In/x399_Burn_In/PCBs/x399 Burn In v0_0_7LC/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
